@@ -1,1801 +1,1052 @@
 <?xml version="1.0" ?>
 <Students>
     <Student>
-        <ho_ten>Bành Như Mai</ho_ten>
-        <ntns>2005-11-23</ntns>
-        <diem_tb>8.59</diem_tb>
+        <ho_ten>Vĩnh Quỳnh Như</ho_ten>
+        <ntns>2005-04-12</ntns>
+        <diem_tb>8.57</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Thảo Châu Thái Tân</ho_ten>
-        <ntns>2005-07-01</ntns>
-        <diem_tb>8.07</diem_tb>
+        <ho_ten>Phan Quốc Toản</ho_ten>
+        <ntns>2005-05-16</ntns>
+        <diem_tb>8.39</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Lệnh Nhân Tuyết Hân</ho_ten>
-        <ntns>2005-08-25</ntns>
-        <diem_tb>8.32</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ân Ngạn Thu Vân</ho_ten>
-        <ntns>2005-12-01</ntns>
-        <diem_tb>8.7</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bác Hồ Bảo Quỳnh</ho_ten>
-        <ntns>2005-01-06</ntns>
-        <diem_tb>8.52</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đàm Xuân Hạnh</ho_ten>
-        <ntns>2005-06-28</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vạn Như Anh</ho_ten>
-        <ntns>2005-04-18</ntns>
-        <diem_tb>8.37</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vĩnh Lệnh Xuân Quý</ho_ten>
-        <ntns>2005-04-25</ntns>
-        <diem_tb>8.32</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lừa Hồng Nhung</ho_ten>
-        <ntns>2005-02-22</ntns>
-        <diem_tb>8.26</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mộc Lương Thịnh</ho_ten>
-        <ntns>2005-04-10</ntns>
-        <diem_tb>8.45</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thổ Xuân Thái</ho_ten>
-        <ntns>2005-02-04</ntns>
-        <diem_tb>8.73</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đổng Tiến Võ</ho_ten>
-        <ntns>2005-12-30</ntns>
-        <diem_tb>8.34</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Từ Duy Hùng</ho_ten>
-        <ntns>2005-01-28</ntns>
-        <diem_tb>8.85</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thảo Phi Ðiệp</ho_ten>
-        <ntns>2005-12-18</ntns>
-        <diem_tb>8.43</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Độ Đông Bảo Trân</ho_ten>
-        <ntns>2005-04-18</ntns>
-        <diem_tb>8.52</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Chân Viết Nhân</ho_ten>
-        <ntns>2005-06-08</ntns>
-        <diem_tb>8.8</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lập Trung Nghĩa</ho_ten>
-        <ntns>2005-10-16</ntns>
-        <diem_tb>8.51</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đại Ánh Quốc Văn</ho_ten>
-        <ntns>2005-01-21</ntns>
-        <diem_tb>8.69</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lê Trường Kỳ</ho_ten>
-        <ntns>2005-07-09</ntns>
-        <diem_tb>8.77</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lý Phó Việt Tuyết</ho_ten>
-        <ntns>2005-04-29</ntns>
-        <diem_tb>8.96</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Trần Hồng Quý</ho_ten>
-        <ntns>2005-03-06</ntns>
-        <diem_tb>8.92</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đặng Lệnh Gia Kiệt</ho_ten>
+        <ho_ten>Lý Trà Giang</ho_ten>
         <ntns>2005-10-21</ntns>
-        <diem_tb>8.56</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hồng Túc Nguyễn Hải An</ho_ten>
-        <ntns>2005-04-04</ntns>
-        <diem_tb>8.62</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Sở Mạnh Kha</ho_ten>
-        <ntns>2005-07-31</ntns>
-        <diem_tb>8.08</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Viên Yến Vân</ho_ten>
-        <ntns>2005-09-21</ntns>
-        <diem_tb>8.8</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nhâm Thủy Minh</ho_ten>
-        <ntns>2005-07-17</ntns>
-        <diem_tb>8.69</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Kính Kim Thư</ho_ten>
-        <ntns>2005-02-17</ntns>
-        <diem_tb>8.17</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lực Thanh Minh</ho_ten>
-        <ntns>2005-08-07</ntns>
-        <diem_tb>8.1</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đan An Khang</ho_ten>
-        <ntns>2005-12-10</ntns>
-        <diem_tb>8.95</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hồ Toàn Thắng</ho_ten>
-        <ntns>2005-09-03</ntns>
-        <diem_tb>8.94</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lục Thái Tuyết Hân</ho_ten>
-        <ntns>2005-05-03</ntns>
-        <diem_tb>8.27</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nông Thanh Thế</ho_ten>
-        <ntns>2005-01-16</ntns>
-        <diem_tb>8.14</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngạn Quang Ðạt</ho_ten>
-        <ntns>2005-12-27</ntns>
-        <diem_tb>8.59</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Trình Đan Ðịnh</ho_ten>
-        <ntns>2005-04-08</ntns>
-        <diem_tb>8.65</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bùi Thành Khiêm</ho_ten>
-        <ntns>2005-04-05</ntns>
-        <diem_tb>8.76</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nghiêm Bích Trâm</ho_ten>
-        <ntns>2005-02-16</ntns>
-        <diem_tb>8.29</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thảo Độ Việt Nhi</ho_ten>
-        <ntns>2005-10-23</ntns>
-        <diem_tb>8.04</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mao Tử Nhật Hòa</ho_ten>
-        <ntns>2005-10-04</ntns>
-        <diem_tb>8.82</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hoằng Trang Anh</ho_ten>
-        <ntns>2005-01-19</ntns>
-        <diem_tb>8.57</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Điền Ngũ Lan Hương</ho_ten>
-        <ntns>2005-09-18</ntns>
-        <diem_tb>8.84</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Huỳnh Đan Lam</ho_ten>
-        <ntns>2005-06-20</ntns>
-        <diem_tb>8.49</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Quách Lịch Thúy Ngân</ho_ten>
-        <ntns>2005-04-10</ntns>
-        <diem_tb>8.9</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bưu Quách Duy An</ho_ten>
-        <ntns>2005-10-30</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Cấn Thiên Lam</ho_ten>
-        <ntns>2005-04-05</ntns>
-        <diem_tb>8.6</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hồng Hoàng Minh</ho_ten>
-        <ntns>2005-07-26</ntns>
-        <diem_tb>8.36</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạ Bưu Thiên Thanh</ho_ten>
-        <ntns>2005-01-26</ntns>
-        <diem_tb>8.35</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lã Như Ngà</ho_ten>
-        <ntns>2005-10-16</ntns>
-        <diem_tb>8.74</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngư Phi Phi</ho_ten>
-        <ntns>2005-04-22</ntns>
-        <diem_tb>8.66</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngạn Bích Hằng</ho_ten>
-        <ntns>2005-03-07</ntns>
-        <diem_tb>8.35</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đặng Hòa Thái</ho_ten>
-        <ntns>2005-12-03</ntns>
-        <diem_tb>8.17</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nhậm Sầm Minh Khôi</ho_ten>
-        <ntns>2005-01-18</ntns>
-        <diem_tb>8.62</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mang Thục Anh</ho_ten>
-        <ntns>2005-07-01</ntns>
-        <diem_tb>8.2</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Khương Trí Minh</ho_ten>
-        <ntns>2005-11-08</ntns>
-        <diem_tb>8.23</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đinh Long Thịnh</ho_ten>
-        <ntns>2005-01-14</ntns>
-        <diem_tb>8.62</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiễn Vũ Bích Lam</ho_ten>
-        <ntns>2005-08-16</ntns>
-        <diem_tb>8.0</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiếp Đan Duy Hiền</ho_ten>
-        <ntns>2005-04-04</ntns>
-        <diem_tb>8.38</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạ Đổng Lam Duyên</ho_ten>
-        <ntns>2005-04-15</ntns>
-        <diem_tb>8.26</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vệ Tử Nhan Hồng</ho_ten>
-        <ntns>2005-11-23</ntns>
-        <diem_tb>8.29</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thủy Lập Hồng Nhuận</ho_ten>
-        <ntns>2005-10-05</ntns>
-        <diem_tb>8.69</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vĩ Kiều Tuyết</ho_ten>
-        <ntns>2005-01-13</ntns>
-        <diem_tb>8.96</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiết Trương Quang Thiên</ho_ten>
-        <ntns>2005-01-22</ntns>
-        <diem_tb>8.82</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tấn Hồng Như</ho_ten>
-        <ntns>2005-11-06</ntns>
-        <diem_tb>8.19</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lập Linh Loan</ho_ten>
-        <ntns>2005-11-25</ntns>
-        <diem_tb>8.02</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạ Nhân Ðình Kim</ho_ten>
-        <ntns>2005-09-24</ntns>
-        <diem_tb>8.82</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngưu Thực Hiện</ho_ten>
-        <ntns>2005-08-24</ntns>
-        <diem_tb>8.71</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Phạm Minh Nhật</ho_ten>
-        <ntns>2005-06-19</ntns>
-        <diem_tb>8.12</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lãnh Sao Mai</ho_ten>
-        <ntns>2005-04-24</ntns>
-        <diem_tb>8.06</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lãnh Lệnh Phú Hải</ho_ten>
-        <ntns>2005-03-23</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thượng Đăng Quang</ho_ten>
-        <ntns>2005-07-03</ntns>
-        <diem_tb>8.65</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vi Lan Hoa</ho_ten>
-        <ntns>2005-09-01</ntns>
-        <diem_tb>8.35</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Văn Tiền Quế Anh</ho_ten>
-        <ntns>2005-09-12</ntns>
-        <diem_tb>8.13</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tưởng Xuân Bích Hà</ho_ten>
-        <ntns>2005-11-20</ntns>
-        <diem_tb>8.84</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đào Cát Linh</ho_ten>
-        <ntns>2005-12-09</ntns>
-        <diem_tb>8.67</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thôi Chung Lạc Quang</ho_ten>
-        <ntns>2005-04-05</ntns>
-        <diem_tb>8.97</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bùi Phùng Bích Nga</ho_ten>
-        <ntns>2005-05-21</ntns>
-        <diem_tb>8.55</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thổ Trọng Việt</ho_ten>
-        <ntns>2005-01-26</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thủy Vũ Kim Ðan</ho_ten>
-        <ntns>2005-06-10</ntns>
-        <diem_tb>8.07</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đồng Phương Liên</ho_ten>
-        <ntns>2005-01-30</ntns>
-        <diem_tb>8.21</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạ Tuấn Khanh</ho_ten>
-        <ntns>2005-12-21</ntns>
-        <diem_tb>8.23</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Châu Danh Nhân</ho_ten>
-        <ntns>2005-10-20</ntns>
-        <diem_tb>8.53</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đậu Ngụy Chí Khiêm</ho_ten>
-        <ntns>2005-04-05</ntns>
-        <diem_tb>8.14</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đoãn Nguyên Bảo</ho_ten>
-        <ntns>2005-01-18</ntns>
-        <diem_tb>8.7</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thổ Ðức Bằng</ho_ten>
-        <ntns>2005-09-02</ntns>
-        <diem_tb>8.7</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nông Cao Cao Phong</ho_ten>
-        <ntns>2005-01-25</ntns>
-        <diem_tb>8.67</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lâm Nhâm Lâm Sơn</ho_ten>
-        <ntns>2005-11-24</ntns>
-        <diem_tb>8.06</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngưu Lạc Lan Duyên</ho_ten>
-        <ntns>2005-03-12</ntns>
-        <diem_tb>8.96</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Triệu Việt Phương</ho_ten>
-        <ntns>2005-05-04</ntns>
-        <diem_tb>8.8</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bạch Ðông Sơn</ho_ten>
-        <ntns>2005-11-24</ntns>
-        <diem_tb>8.0</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiến Chân Việt Khang</ho_ten>
-        <ntns>2005-06-22</ntns>
-        <diem_tb>8.2</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đình Đặng Hữu Nghị</ho_ten>
-        <ntns>2005-10-28</ntns>
-        <diem_tb>8.76</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tả Tiến Dũng</ho_ten>
-        <ntns>2005-06-13</ntns>
-        <diem_tb>8.06</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngưu Chi Mai</ho_ten>
-        <ntns>2005-03-15</ntns>
-        <diem_tb>8.25</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đà Nguyên Giáp</ho_ten>
-        <ntns>2005-05-11</ntns>
-        <diem_tb>8.71</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nghiêm Thục Anh</ho_ten>
-        <ntns>2005-04-21</ntns>
-        <diem_tb>8.07</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đậu Cát Uy</ho_ten>
-        <ntns>2005-06-06</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mang Bảo Thái</ho_ten>
-        <ntns>2005-04-02</ntns>
-        <diem_tb>8.4</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lãnh Lý Vân Phương</ho_ten>
-        <ntns>2005-12-20</ntns>
-        <diem_tb>8.45</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạnh Phương Nhi</ho_ten>
-        <ntns>2005-07-29</ntns>
-        <diem_tb>8.46</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đỗ Thu Ngọc</ho_ten>
-        <ntns>2005-02-21</ntns>
-        <diem_tb>8.62</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đoạn Tiền Trọng Nghĩa</ho_ten>
-        <ntns>2005-10-08</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lực Trác Khắc Vũ</ho_ten>
-        <ntns>2005-05-01</ntns>
-        <diem_tb>8.5</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tịnh Lương Đình</ho_ten>
-        <ntns>2005-06-01</ntns>
-        <diem_tb>8.81</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đoạn Giang Thiên</ho_ten>
-        <ntns>2005-01-07</ntns>
-        <diem_tb>8.24</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nhiệm Lực Tố Quyên</ho_ten>
-        <ntns>2005-06-23</ntns>
-        <diem_tb>8.32</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Huỳnh Ung Thiên Nga</ho_ten>
-        <ntns>2005-03-28</ntns>
-        <diem_tb>8.08</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mã Thu Trang</ho_ten>
-        <ntns>2005-04-02</ntns>
-        <diem_tb>8.85</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Cao Ðắc Di</ho_ten>
-        <ntns>2005-02-10</ntns>
-        <diem_tb>8.6</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thạch Hải Dương</ho_ten>
-        <ntns>2005-08-10</ntns>
-        <diem_tb>8.24</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Địch Vương Phúc Tâm</ho_ten>
-        <ntns>2005-08-01</ntns>
-        <diem_tb>8.52</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thủy Bích Trang</ho_ten>
-        <ntns>2005-03-23</ntns>
-        <diem_tb>8.2</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Phan Lạc Bá Cường</ho_ten>
-        <ntns>2005-02-14</ntns>
-        <diem_tb>8.11</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thẩm Thổ Phong Dinh</ho_ten>
-        <ntns>2005-03-20</ntns>
-        <diem_tb>8.24</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tưởng Tiếp Yên Bình</ho_ten>
-        <ntns>2005-11-18</ntns>
-        <diem_tb>8.08</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạnh Trúc Mai</ho_ten>
-        <ntns>2005-04-13</ntns>
-        <diem_tb>8.49</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngô Quang Bửu</ho_ten>
-        <ntns>2005-08-31</ntns>
-        <diem_tb>8.13</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đào Bảo Ðịnh</ho_ten>
-        <ntns>2005-05-08</ntns>
-        <diem_tb>8.52</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nhiên Thi Thục Nhi</ho_ten>
-        <ntns>2005-11-30</ntns>
-        <diem_tb>8.53</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mai Bảo An</ho_ten>
-        <ntns>2005-08-23</ntns>
-        <diem_tb>8.74</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Chân Tôn Cao Nhân</ho_ten>
-        <ntns>2005-04-04</ntns>
-        <diem_tb>8.26</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngô Nhiệm Cát Tường</ho_ten>
-        <ntns>2005-10-18</ntns>
-        <diem_tb>8.04</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lục Lâm Yến Nhi</ho_ten>
-        <ntns>2005-04-07</ntns>
-        <diem_tb>8.83</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạnh Thanh Hảo</ho_ten>
-        <ntns>2005-06-23</ntns>
-        <diem_tb>8.57</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đạt Yến Vy</ho_ten>
-        <ntns>2005-04-20</ntns>
-        <diem_tb>8.43</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hàng Hồng Nhung</ho_ten>
-        <ntns>2005-10-03</ntns>
-        <diem_tb>8.87</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tịnh Thảo Viễn Đông</ho_ten>
-        <ntns>2005-01-11</ntns>
-        <diem_tb>8.0</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ân Quốc Trung</ho_ten>
-        <ntns>2005-01-15</ntns>
-        <diem_tb>8.64</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đặng Nam Phương</ho_ten>
-        <ntns>2005-12-08</ntns>
-        <diem_tb>8.17</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bùi Anh Khoa</ho_ten>
-        <ntns>2005-04-22</ntns>
-        <diem_tb>8.88</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngư Phó Bảo Sơn</ho_ten>
-        <ntns>2005-12-05</ntns>
-        <diem_tb>8.04</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mang Thi Lan Loan</ho_ten>
-        <ntns>2005-06-02</ntns>
-        <diem_tb>8.04</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tôn Long Nguyên</ho_ten>
-        <ntns>2005-07-15</ntns>
-        <diem_tb>8.1</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thảo Đông Khanh</ho_ten>
-        <ntns>2005-10-13</ntns>
-        <diem_tb>8.73</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lại Quảng Ðại</ho_ten>
-        <ntns>2005-08-16</ntns>
-        <diem_tb>8.4</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hứa Sầm Bích Ðiệp</ho_ten>
-        <ntns>2005-06-16</ntns>
-        <diem_tb>8.99</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Huỳnh Bành Anh Thái</ho_ten>
-        <ntns>2005-02-07</ntns>
-        <diem_tb>8.85</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mang Lam Hương</ho_ten>
-        <ntns>2005-10-10</ntns>
-        <diem_tb>8.45</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nghiêm Mục Sơn Lâm</ho_ten>
-        <ntns>2005-12-16</ntns>
-        <diem_tb>8.63</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Xương Mao Duy Cường</ho_ten>
-        <ntns>2005-10-20</ntns>
-        <diem_tb>8.72</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tôn Thái Hải Dương</ho_ten>
-        <ntns>2005-02-23</ntns>
-        <diem_tb>8.24</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Sở Tả Thu Vọng</ho_ten>
-        <ntns>2005-09-23</ntns>
-        <diem_tb>8.61</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mao Lục Thu Loan</ho_ten>
-        <ntns>2005-01-30</ntns>
-        <diem_tb>8.71</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ánh Kiều Sa</ho_ten>
-        <ntns>2005-06-01</ntns>
-        <diem_tb>8.62</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thi Long Nguyên</ho_ten>
-        <ntns>2005-12-25</ntns>
-        <diem_tb>8.0</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạc Minh Ðạt</ho_ten>
-        <ntns>2005-12-28</ntns>
-        <diem_tb>8.1</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bạch Đỗ Khánh Hòa</ho_ten>
-        <ntns>2005-06-16</ntns>
-        <diem_tb>8.46</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Độ Lại Bích Vân</ho_ten>
-        <ntns>2005-08-08</ntns>
-        <diem_tb>8.76</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hoằng Băng Tâm</ho_ten>
-        <ntns>2005-11-26</ntns>
         <diem_tb>8.42</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Nhiệm Tuấn Hùng</ho_ten>
-        <ntns>2005-07-23</ntns>
-        <diem_tb>8.88</diem_tb>
+        <ho_ten>Chu Thanh Hoa</ho_ten>
+        <ntns>2005-07-12</ntns>
+        <diem_tb>8.1</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Hoàng Hồng Thu</ho_ten>
-        <ntns>2005-03-05</ntns>
-        <diem_tb>8.46</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đạo Ðình Kim</ho_ten>
-        <ntns>2005-09-28</ntns>
-        <diem_tb>8.22</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hoàng Đan Anh</ho_ten>
-        <ntns>2005-12-29</ntns>
-        <diem_tb>8.29</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Quách Đồng Ðình Sang</ho_ten>
-        <ntns>2005-12-16</ntns>
-        <diem_tb>8.57</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nhiên Yên Triển Sinh</ho_ten>
-        <ntns>2005-10-03</ntns>
-        <diem_tb>8.65</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thẩm Ðắc Trọng</ho_ten>
-        <ntns>2005-12-21</ntns>
-        <diem_tb>8.04</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạnh Trịnh Ðức Phong</ho_ten>
-        <ntns>2005-12-17</ntns>
-        <diem_tb>8.63</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Địch Thụy Trâm</ho_ten>
-        <ntns>2005-03-17</ntns>
-        <diem_tb>8.01</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đặng Chân Phi Phi</ho_ten>
-        <ntns>2005-09-20</ntns>
-        <diem_tb>8.17</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Cao Lương Đông</ho_ten>
-        <ntns>2005-02-12</ntns>
-        <diem_tb>8.73</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đường Ngụy Tuệ Mẫn</ho_ten>
-        <ntns>2005-07-31</ntns>
-        <diem_tb>8.49</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đường Tiếp Tường Nguyên</ho_ten>
-        <ntns>2005-03-05</ntns>
-        <diem_tb>8.84</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Trịnh Phạm Việt Hùng</ho_ten>
-        <ntns>2005-04-10</ntns>
-        <diem_tb>8.08</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạnh Nam Sơn</ho_ten>
-        <ntns>2005-03-30</ntns>
-        <diem_tb>8.13</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Kính Thùy Vân</ho_ten>
-        <ntns>2005-03-26</ntns>
-        <diem_tb>8.18</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Châu Trường An</ho_ten>
-        <ntns>2005-11-15</ntns>
-        <diem_tb>8.34</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Viên Tuyết Băng</ho_ten>
-        <ntns>2005-06-16</ntns>
-        <diem_tb>8.47</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đàm Vạn Hòa Thái</ho_ten>
-        <ntns>2005-09-18</ntns>
-        <diem_tb>8.73</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Huỳnh Địch Triều Thanh</ho_ten>
-        <ntns>2005-07-24</ntns>
-        <diem_tb>8.11</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiền Vương Triệu</ho_ten>
-        <ntns>2005-07-22</ntns>
-        <diem_tb>8.03</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Trần Trường Long</ho_ten>
-        <ntns>2005-04-27</ntns>
-        <diem_tb>8.64</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thổ Nông Tú Nguyệt</ho_ten>
-        <ntns>2005-10-29</ntns>
-        <diem_tb>8.02</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Văn Kim Ðan</ho_ten>
-        <ntns>2005-09-27</ntns>
-        <diem_tb>8.51</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thượng Danh Sơn</ho_ten>
-        <ntns>2005-07-29</ntns>
-        <diem_tb>8.61</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Châu Bích Ngân</ho_ten>
-        <ntns>2005-05-17</ntns>
-        <diem_tb>8.79</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mai Tống Duy Thành</ho_ten>
-        <ntns>2005-11-11</ntns>
-        <diem_tb>8.22</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đinh Duy Khiêm</ho_ten>
-        <ntns>2005-10-14</ntns>
-        <diem_tb>8.6</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bạch Thái Tú Anh</ho_ten>
-        <ntns>2005-02-16</ntns>
-        <diem_tb>8.25</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lại Đức Ðắc Thành</ho_ten>
-        <ntns>2005-12-18</ntns>
-        <diem_tb>8.65</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạc Lục Thảo Linh</ho_ten>
-        <ntns>2005-07-06</ntns>
-        <diem_tb>8.13</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạ Linh Duyên</ho_ten>
-        <ntns>2005-01-18</ntns>
+        <ho_ten>Nhâm Duy Bảo</ho_ten>
+        <ntns>2005-12-05</ntns>
         <diem_tb>8.2</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Tử Kiều Thy</ho_ten>
-        <ntns>2005-08-09</ntns>
-        <diem_tb>8.53</diem_tb>
+        <ho_ten>Lập Bảo Sơn</ho_ten>
+        <ntns>2005-09-23</ntns>
+        <diem_tb>8.7</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Tống Thúy Ngà</ho_ten>
-        <ntns>2005-12-21</ntns>
-        <diem_tb>8.66</diem_tb>
+        <ho_ten>Trình Linh Xuân</ho_ten>
+        <ntns>2005-11-18</ntns>
+        <diem_tb>8.45</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Mã Đại Quỳnh Hà</ho_ten>
-        <ntns>2005-04-04</ntns>
-        <diem_tb>8.07</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tùng Thảo Tuấn Tú</ho_ten>
-        <ntns>2005-09-19</ntns>
-        <diem_tb>8.46</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Khang Hồng Ðiệp</ho_ten>
-        <ntns>2005-05-29</ntns>
-        <diem_tb>8.37</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lạc Xuân Kiên</ho_ten>
-        <ntns>2005-02-17</ntns>
-        <diem_tb>8.37</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tử Thiện Ðức</ho_ten>
-        <ntns>2005-12-03</ntns>
-        <diem_tb>8.61</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hàng Mã Phương Thùy</ho_ten>
-        <ntns>2005-02-05</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngạn Ðức Nhân</ho_ten>
-        <ntns>2005-04-27</ntns>
-        <diem_tb>8.49</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đoan Kim Tuyết</ho_ten>
-        <ntns>2005-06-04</ntns>
-        <diem_tb>8.89</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đạt Hồ Trọng Vinh</ho_ten>
-        <ntns>2005-03-24</ntns>
-        <diem_tb>8.41</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hàn Đàm Phương Dung</ho_ten>
-        <ntns>2005-05-02</ntns>
-        <diem_tb>8.78</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lý Địch Kim Dung</ho_ten>
-        <ntns>2005-10-24</ntns>
-        <diem_tb>8.55</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hồng Ung Ðan Quế</ho_ten>
-        <ntns>2005-08-10</ntns>
-        <diem_tb>8.81</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nghiêm Lam Ngân</ho_ten>
-        <ntns>2005-08-20</ntns>
-        <diem_tb>8.13</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mao Đoạn Đoan Vân</ho_ten>
-        <ntns>2005-06-16</ntns>
-        <diem_tb>8.07</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Kính Kiều Khanh</ho_ten>
-        <ntns>2005-10-20</ntns>
-        <diem_tb>8.69</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Độ Đoàn Bảo Phương</ho_ten>
-        <ntns>2005-03-13</ntns>
-        <diem_tb>8.12</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đà Thục Tâm</ho_ten>
-        <ntns>2005-03-17</ntns>
-        <diem_tb>8.23</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vĩnh Đan Ðào</ho_ten>
-        <ntns>2005-02-28</ntns>
-        <diem_tb>8.07</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Viên Tường Nguyên</ho_ten>
-        <ntns>2005-12-31</ntns>
-        <diem_tb>8.95</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lập Tú Quyên</ho_ten>
-        <ntns>2005-05-29</ntns>
-        <diem_tb>8.72</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đoan Quách Ðình Hợp</ho_ten>
-        <ntns>2005-04-25</ntns>
-        <diem_tb>8.93</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tráng Kim Hương</ho_ten>
-        <ntns>2005-08-14</ntns>
-        <diem_tb>8.39</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Phạm Cảnh Tuấn</ho_ten>
-        <ntns>2005-04-13</ntns>
-        <diem_tb>8.24</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đoan Nghĩa Hòa</ho_ten>
-        <ntns>2005-11-12</ntns>
-        <diem_tb>8.98</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Khương Tùng Hiệp Hiền</ho_ten>
-        <ntns>2005-12-31</ntns>
-        <diem_tb>8.61</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nghiêm Khang Đại Lâm</ho_ten>
-        <ntns>2005-01-18</ntns>
-        <diem_tb>8.9</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mao Thục Khuê</ho_ten>
-        <ntns>2005-02-20</ntns>
-        <diem_tb>8.05</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đức Phương Linh</ho_ten>
-        <ntns>2005-12-11</ntns>
-        <diem_tb>8.59</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Trịnh Quang Xuân</ho_ten>
-        <ntns>2005-11-10</ntns>
-        <diem_tb>8.58</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngụy Tứ Quốc Trụ</ho_ten>
-        <ntns>2005-12-27</ntns>
-        <diem_tb>8.63</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thượng Nguyễn Phượng Uyên</ho_ten>
-        <ntns>2005-03-24</ntns>
-        <diem_tb>8.14</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đậu Khương Quang Trung</ho_ten>
-        <ntns>2005-12-09</ntns>
-        <diem_tb>8.97</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mao Ðức Bằng</ho_ten>
-        <ntns>2005-09-16</ntns>
-        <diem_tb>8.82</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Võ Dương Thượng Nghị</ho_ten>
-        <ntns>2005-02-22</ntns>
-        <diem_tb>8.03</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lâm Đổng Linh Sa</ho_ten>
-        <ntns>2005-01-13</ntns>
-        <diem_tb>8.31</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hoàng Long Khiêm</ho_ten>
-        <ntns>2005-01-04</ntns>
-        <diem_tb>8.85</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mai Khiết Khải Tâm</ho_ten>
-        <ntns>2005-12-12</ntns>
-        <diem_tb>8.78</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lừa Lương Hoàng</ho_ten>
-        <ntns>2005-10-08</ntns>
-        <diem_tb>8.87</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vạn Quỳnh Thanh</ho_ten>
-        <ntns>2005-01-06</ntns>
-        <diem_tb>8.49</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Địch Yến Vy</ho_ten>
-        <ntns>2005-09-21</ntns>
-        <diem_tb>8.11</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lừa Đông Ngọc Danh</ho_ten>
-        <ntns>2005-03-20</ntns>
-        <diem_tb>8.5</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiếp Tấn Trung Hải</ho_ten>
-        <ntns>2005-04-28</ntns>
-        <diem_tb>8.15</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bác Cẩm Hạnh</ho_ten>
-        <ntns>2005-07-23</ntns>
-        <diem_tb>8.11</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngô Lư Phương An</ho_ten>
-        <ntns>2005-08-13</ntns>
-        <diem_tb>8.29</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Trình Nhân Hải Bằng</ho_ten>
-        <ntns>2005-11-17</ntns>
-        <diem_tb>8.54</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Phó Minh Linh</ho_ten>
-        <ntns>2005-01-14</ntns>
-        <diem_tb>8.72</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tiền Phương Quyên</ho_ten>
-        <ntns>2005-08-22</ntns>
-        <diem_tb>8.46</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nông Minh Quang</ho_ten>
-        <ntns>2005-02-16</ntns>
+        <ho_ten>Khiết Huỳnh Bích Ty</ho_ten>
+        <ntns>2005-10-10</ntns>
         <diem_tb>8.21</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Sở Diệp Phước Huệ</ho_ten>
-        <ntns>2005-09-04</ntns>
-        <diem_tb>8.87</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ân Anh Thảo</ho_ten>
-        <ntns>2005-12-19</ntns>
-        <diem_tb>8.97</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Mạc Bá Lộc</ho_ten>
-        <ntns>2005-06-01</ntns>
-        <diem_tb>8.01</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Xương Yến Trâm</ho_ten>
-        <ntns>2005-04-23</ntns>
-        <diem_tb>8.09</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lã Tăng Việt Cường</ho_ten>
-        <ntns>2005-03-29</ntns>
-        <diem_tb>8.49</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vệ Thông Ðạt</ho_ten>
-        <ntns>2005-06-18</ntns>
-        <diem_tb>8.24</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ân Quỳnh Thanh</ho_ten>
-        <ntns>2005-01-16</ntns>
-        <diem_tb>8.85</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Tạ Tùng Đan Ðạo</ho_ten>
-        <ntns>2005-03-26</ntns>
-        <diem_tb>8.87</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Hoàng Ngưu Thúy Anh</ho_ten>
-        <ntns>2005-04-09</ntns>
-        <diem_tb>8.67</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lưu Mang Thảo Hồng</ho_ten>
-        <ntns>2005-08-12</ntns>
-        <diem_tb>8.97</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Xuân Tích Thiện</ho_ten>
-        <ntns>2005-10-18</ntns>
-        <diem_tb>8.75</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Cao Hồng Quý</ho_ten>
-        <ntns>2005-09-18</ntns>
-        <diem_tb>8.89</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Thẩm Lại Đông Nhi</ho_ten>
-        <ntns>2005-05-02</ntns>
-        <diem_tb>8.48</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Chung Thiện Ân</ho_ten>
-        <ntns>2005-08-15</ntns>
-        <diem_tb>8.62</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Bưu Trịnh Ðức Phi</ho_ten>
-        <ntns>2005-08-15</ntns>
-        <diem_tb>8.86</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Đinh Việt Quyết</ho_ten>
-        <ntns>2005-02-25</ntns>
-        <diem_tb>8.02</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lệnh Việt Phong</ho_ten>
-        <ntns>2005-01-25</ntns>
-        <diem_tb>8.48</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Nhậm Lạc Vân Thường</ho_ten>
-        <ntns>2005-07-08</ntns>
+        <ho_ten>Thi Thanh Hoa</ho_ten>
+        <ntns>2005-12-17</ntns>
         <diem_tb>8.3</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Ngụy Lý Hoàng Lâm</ho_ten>
-        <ntns>2005-04-26</ntns>
-        <diem_tb>8.19</diem_tb>
+        <ho_ten>Thi Nhật Mai</ho_ten>
+        <ntns>2005-02-05</ntns>
+        <diem_tb>8.28</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Đoạn Thi Thanh Hào</ho_ten>
-        <ntns>2005-05-25</ntns>
-        <diem_tb>8.38</diem_tb>
+        <ho_ten>Tiến Mã Bích Hợp</ho_ten>
+        <ntns>2005-02-06</ntns>
+        <diem_tb>8.72</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Ngạn Sở Gia Vinh</ho_ten>
-        <ntns>2005-12-21</ntns>
-        <diem_tb>8.34</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Ngụy Sở Hồng Thư</ho_ten>
-        <ntns>2005-11-23</ntns>
-        <diem_tb>8.25</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Phó Nhiên Thùy Dương</ho_ten>
-        <ntns>2005-01-11</ntns>
-        <diem_tb>8.77</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Vi Vy Lan</ho_ten>
-        <ntns>2005-09-21</ntns>
-        <diem_tb>8.33</diem_tb>
-        <xep_loai>Giỏi</xep_loai>
-        <ket_qua>Hoàn thành</ket_qua>
-    </Student>
-    <Student>
-        <ho_ten>Lực Minh Toàn</ho_ten>
-        <ntns>2005-03-03</ntns>
+        <ho_ten>Hoằng Tuệ Lâm</ho_ten>
+        <ntns>2005-12-28</ntns>
         <diem_tb>8.23</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Chân Thủy Nguyệt</ho_ten>
-        <ntns>2005-06-30</ntns>
-        <diem_tb>8.39</diem_tb>
+        <ho_ten>Lục Hồng Hạnh</ho_ten>
+        <ntns>2005-03-23</ntns>
+        <diem_tb>8.27</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Triệu Khương Hiệp Vũ</ho_ten>
-        <ntns>2005-11-30</ntns>
+        <ho_ten>Phan Đồng Thụy Lâm</ho_ten>
+        <ntns>2005-04-04</ntns>
+        <diem_tb>8.22</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Đạo Ngọc Sơn</ho_ten>
+        <ntns>2005-11-17</ntns>
+        <diem_tb>8.31</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Thiên Duyên</ho_ten>
+        <ntns>2005-03-17</ntns>
+        <diem_tb>8.13</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đào Tạ Kiều Linh</ho_ten>
+        <ntns>2005-02-22</ntns>
+        <diem_tb>8.31</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Việt Khuê</ho_ten>
+        <ntns>2005-03-09</ntns>
+        <diem_tb>8.33</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Tùng Linh</ho_ten>
+        <ntns>2005-06-29</ntns>
+        <diem_tb>8.23</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Bá Cường</ho_ten>
+        <ntns>2005-08-10</ntns>
+        <diem_tb>8.69</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Mạnh Quang</ho_ten>
+        <ntns>2005-12-25</ntns>
+        <diem_tb>8.22</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Từ Uyên Phương</ho_ten>
+        <ntns>2005-09-02</ntns>
+        <diem_tb>8.87</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Yến Nhi</ho_ten>
+        <ntns>2005-04-17</ntns>
+        <diem_tb>8.49</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đậu Bảo Châu</ho_ten>
+        <ntns>2005-08-01</ntns>
+        <diem_tb>8.65</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đậu Bích Trâm</ho_ten>
+        <ntns>2005-04-11</ntns>
+        <diem_tb>8.88</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Diệp Vân Nhi</ho_ten>
+        <ntns>2005-07-05</ntns>
+        <diem_tb>8.91</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Khánh Vy</ho_ten>
+        <ntns>2005-02-06</ntns>
+        <diem_tb>8.01</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Phượng Uyên</ho_ten>
+        <ntns>2005-10-18</ntns>
+        <diem_tb>8.24</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hà Phùng Bảo Vy</ho_ten>
+        <ntns>2005-06-29</ntns>
+        <diem_tb>8.54</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Ngô Kiều Linh</ho_ten>
+        <ntns>2005-08-12</ntns>
+        <diem_tb>8.85</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Tuyết Tâm</ho_ten>
+        <ntns>2005-01-15</ntns>
+        <diem_tb>8.78</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Vạn Lam Phượng</ho_ten>
+        <ntns>2005-10-22</ntns>
+        <diem_tb>8.03</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Ánh Tường Lĩnh</ho_ten>
+        <ntns>2005-10-11</ntns>
+        <diem_tb>8.66</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Đông Nương</ho_ten>
+        <ntns>2005-03-05</ntns>
+        <diem_tb>8.18</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vương Ðức Ân</ho_ten>
+        <ntns>2005-06-22</ntns>
+        <diem_tb>8.55</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoạn Tiêu Khánh Hoàn</ho_ten>
+        <ntns>2005-04-15</ntns>
+        <diem_tb>8.64</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Tuấn Khoan</ho_ten>
+        <ntns>2005-05-17</ntns>
+        <diem_tb>8.56</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đình Xương Tiến Hiệp</ho_ten>
+        <ntns>2005-11-16</ntns>
+        <diem_tb>8.01</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Đại Bình Ðạt</ho_ten>
+        <ntns>2005-02-19</ntns>
+        <diem_tb>8.33</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chung Bích Chiêu</ho_ten>
+        <ntns>2005-07-28</ntns>
+        <diem_tb>8.94</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mộc Vạn Thắng</ho_ten>
+        <ntns>2005-10-03</ntns>
+        <diem_tb>8.36</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vi Khắc Trọng</ho_ten>
+        <ntns>2005-09-19</ntns>
+        <diem_tb>8.78</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Hữu Khoát</ho_ten>
+        <ntns>2005-12-12</ntns>
+        <diem_tb>8.3</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lư Đàm Hữu Thiện</ho_ten>
+        <ntns>2005-03-23</ntns>
+        <diem_tb>8.43</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lục Quỳnh Liên</ho_ten>
+        <ntns>2005-03-07</ntns>
+        <diem_tb>8.15</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Tạc Lan Khánh</ho_ten>
+        <ntns>2005-01-28</ntns>
+        <diem_tb>8.36</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoàn Vũ Ðình Phúc</ho_ten>
+        <ntns>2005-10-15</ntns>
+        <diem_tb>8.52</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Vệ Thanh Nhung</ho_ten>
+        <ntns>2005-09-25</ntns>
+        <diem_tb>8.6</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiễn Đàm Linh Dung</ho_ten>
+        <ntns>2005-03-04</ntns>
+        <diem_tb>8.44</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bùi Yên Oanh</ho_ten>
+        <ntns>2005-06-04</ntns>
+        <diem_tb>8.83</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Tạ Hùng Cường</ho_ten>
+        <ntns>2005-02-20</ntns>
+        <diem_tb>8.36</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Chí Sơn</ho_ten>
+        <ntns>2005-05-30</ntns>
+        <diem_tb>8.7</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sầm Việt Khang</ho_ten>
+        <ntns>2005-11-18</ntns>
+        <diem_tb>8.42</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Đà Duy Mạnh</ho_ten>
+        <ntns>2005-08-15</ntns>
+        <diem_tb>8.83</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tịnh Hoàng Nam</ho_ten>
+        <ntns>2005-01-15</ntns>
+        <diem_tb>8.91</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lạc Khánh Vi</ho_ten>
+        <ntns>2005-05-12</ntns>
+        <diem_tb>8.96</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Minh Huy</ho_ten>
+        <ntns>2005-03-10</ntns>
+        <diem_tb>8.8</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đồng Chu Ðức Thọ</ho_ten>
+        <ntns>2005-10-15</ntns>
+        <diem_tb>8.48</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phạm Mộc Quang Thạch</ho_ten>
+        <ntns>2005-10-11</ntns>
+        <diem_tb>8.92</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nông Quỳnh Hương</ho_ten>
+        <ntns>2005-11-22</ntns>
+        <diem_tb>8.35</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Đồng Minh Hoàng</ho_ten>
+        <ntns>2005-11-06</ntns>
+        <diem_tb>8.14</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lư Khiết Hữu Lương</ho_ten>
+        <ntns>2005-03-14</ntns>
+        <diem_tb>8.69</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Tráng Chí Thành</ho_ten>
+        <ntns>2005-08-17</ntns>
+        <diem_tb>8.15</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tấn Đại Trang</ho_ten>
+        <ntns>2005-03-29</ntns>
+        <diem_tb>8.33</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Danh Nhân</ho_ten>
+        <ntns>2005-03-09</ntns>
+        <diem_tb>8.05</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nghiêm Long Phát</ho_ten>
+        <ntns>2005-12-09</ntns>
+        <diem_tb>8.32</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trương Quang Nhân</ho_ten>
+        <ntns>2005-08-07</ntns>
+        <diem_tb>8.7</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩ Nhã Uyên</ho_ten>
+        <ntns>2005-02-14</ntns>
+        <diem_tb>8.72</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Vân Anh</ho_ten>
+        <ntns>2005-12-05</ntns>
+        <diem_tb>8.6</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Tống Tường Chinh</ho_ten>
+        <ntns>2005-07-30</ntns>
+        <diem_tb>8.97</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Anh Duy</ho_ten>
+        <ntns>2005-07-03</ntns>
+        <diem_tb>8.83</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Lực Yên Nhi</ho_ten>
+        <ntns>2005-10-17</ntns>
+        <diem_tb>8.24</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trang Văn Vinh Quốc</ho_ten>
+        <ntns>2005-06-15</ntns>
+        <diem_tb>8.4</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Thành Nguyên</ho_ten>
+        <ntns>2005-09-05</ntns>
+        <diem_tb>8.97</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Thanh Vân</ho_ten>
+        <ntns>2005-12-11</ntns>
+        <diem_tb>8.37</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Khắc Tuấn</ho_ten>
+        <ntns>2005-03-12</ntns>
+        <diem_tb>8.95</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Đình Mạnh Lực</ho_ten>
+        <ntns>2005-07-17</ntns>
+        <diem_tb>8.73</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Hùng Anh</ho_ten>
+        <ntns>2005-01-04</ntns>
+        <diem_tb>8.1</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Lãnh Trung Nguyên</ho_ten>
+        <ntns>2005-04-13</ntns>
+        <diem_tb>8.16</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩ Trọng Dũng</ho_ten>
+        <ntns>2005-09-25</ntns>
+        <diem_tb>8.77</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tráng Tịnh Nhan Hồng</ho_ten>
+        <ntns>2005-05-01</ntns>
+        <diem_tb>8.75</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xuân Ðức Hạnh</ho_ten>
+        <ntns>2005-04-14</ntns>
+        <diem_tb>8.35</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Lãnh Thiên Hà</ho_ten>
+        <ntns>2005-04-21</ntns>
+        <diem_tb>8.12</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đào Ðắc Thái</ho_ten>
+        <ntns>2005-08-04</ntns>
+        <diem_tb>8.34</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiệm Thái Tâm</ho_ten>
+        <ntns>2005-09-29</ntns>
+        <diem_tb>8.25</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Tuấn Chương</ho_ten>
+        <ntns>2005-06-26</ntns>
+        <diem_tb>8.19</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Nhật Hà</ho_ten>
+        <ntns>2005-11-16</ntns>
+        <diem_tb>8.19</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Đại Vi</ho_ten>
+        <ntns>2005-06-20</ntns>
+        <diem_tb>8.68</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Phương An</ho_ten>
+        <ntns>2005-03-17</ntns>
+        <diem_tb>8.05</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả Hữu Thực</ho_ten>
+        <ntns>2005-08-16</ntns>
+        <diem_tb>8.45</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Đỗ Thanh Kiên</ho_ten>
+        <ntns>2005-10-26</ntns>
+        <diem_tb>8.52</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Kim Tuyết</ho_ten>
+        <ntns>2005-02-02</ntns>
+        <diem_tb>8.91</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Cung Hữu Khôi</ho_ten>
+        <ntns>2005-10-11</ntns>
+        <diem_tb>8.24</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạt Thủy Ý Trinh</ho_ten>
+        <ntns>2005-09-06</ntns>
+        <diem_tb>8.81</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lê Tiết Hiếu Nghĩa</ho_ten>
+        <ntns>2005-05-13</ntns>
+        <diem_tb>8.09</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Nhiên Đan Ðỗ</ho_ten>
+        <ntns>2005-07-05</ntns>
+        <diem_tb>8.83</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Trang Minh Ðức</ho_ten>
+        <ntns>2005-08-16</ntns>
+        <diem_tb>8.58</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đào Bạch Loan</ho_ten>
+        <ntns>2005-03-20</ntns>
+        <diem_tb>8.44</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Ngọc Sơn</ho_ten>
+        <ntns>2005-07-13</ntns>
+        <diem_tb>8.05</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Song Thư</ho_ten>
+        <ntns>2005-05-14</ntns>
+        <diem_tb>8.38</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác An Ninh</ho_ten>
+        <ntns>2005-09-28</ntns>
+        <diem_tb>8.2</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lục Minh Quang</ho_ten>
+        <ntns>2005-05-26</ntns>
+        <diem_tb>8.25</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Anh Minh</ho_ten>
+        <ntns>2005-01-25</ntns>
+        <diem_tb>8.01</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Kiều Thu</ho_ten>
+        <ntns>2005-02-20</ntns>
+        <diem_tb>8.33</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Thanh Hậu</ho_ten>
+        <ntns>2005-06-11</ntns>
+        <diem_tb>8.3</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nghiêm Bình Minh</ho_ten>
+        <ntns>2005-01-17</ntns>
+        <diem_tb>8.09</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vũ Ðình Toàn</ho_ten>
+        <ntns>2005-11-13</ntns>
+        <diem_tb>8.46</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Mao Lương Phú</ho_ten>
+        <ntns>2005-12-09</ntns>
+        <diem_tb>8.56</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiền Đại Lâm</ho_ten>
+        <ntns>2005-01-09</ntns>
         <diem_tb>8.5</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>
     <Student>
-        <ho_ten>Nông Thu Loan</ho_ten>
-        <ntns>2005-04-05</ntns>
-        <diem_tb>8.92</diem_tb>
+        <ho_ten>Bạch Thục Vân</ho_ten>
+        <ntns>2005-08-23</ntns>
+        <diem_tb>8.61</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Hồ Phong Lan</ho_ten>
+        <ntns>2005-08-23</ntns>
+        <diem_tb>8.16</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tùng Thanh Toản</ho_ten>
+        <ntns>2005-08-12</ntns>
+        <diem_tb>8.42</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạo Đoãn Thanh Tùng</ho_ten>
+        <ntns>2005-03-16</ntns>
+        <diem_tb>8.39</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhân Minh Kiên</ho_ten>
+        <ntns>2005-09-08</ntns>
+        <diem_tb>8.55</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Chân Anh Quốc</ho_ten>
+        <ntns>2005-01-08</ntns>
+        <diem_tb>8.51</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trang Ý Trinh</ho_ten>
+        <ntns>2005-11-17</ntns>
+        <diem_tb>8.77</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chân Đoàn Vi Quyên</ho_ten>
+        <ntns>2005-05-13</ntns>
+        <diem_tb>8.37</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đan Xuân Tâm</ho_ten>
+        <ntns>2005-06-04</ntns>
+        <diem_tb>8.96</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoãn Thúy Huyền</ho_ten>
+        <ntns>2005-05-28</ntns>
+        <diem_tb>8.04</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Thủy Trọng Nhân</ho_ten>
+        <ntns>2005-09-12</ntns>
+        <diem_tb>8.65</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Hữu Tường</ho_ten>
+        <ntns>2005-04-08</ntns>
+        <diem_tb>8.78</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Thùy Uyên</ho_ten>
+        <ntns>2005-09-05</ntns>
+        <diem_tb>8.33</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Xuân Ðức Ân</ho_ten>
+        <ntns>2005-08-08</ntns>
+        <diem_tb>8.63</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy Đường Đông Vân</ho_ten>
+        <ntns>2005-08-01</ntns>
+        <diem_tb>8.71</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Ðức Tài</ho_ten>
+        <ntns>2005-09-30</ntns>
+        <diem_tb>8.93</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đậu Huỳnh Uyển My</ho_ten>
+        <ntns>2005-07-16</ntns>
+        <diem_tb>8.56</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đổng Uyên Thy</ho_ten>
+        <ntns>2005-10-02</ntns>
+        <diem_tb>8.38</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Linh Thảo</ho_ten>
+        <ntns>2005-09-19</ntns>
+        <diem_tb>8.19</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Linh Thủy</ho_ten>
+        <ntns>2005-04-25</ntns>
+        <diem_tb>8.59</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trương Quách Hữu Cảnh</ho_ten>
+        <ntns>2005-02-12</ntns>
+        <diem_tb>8.01</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Địch Thanh Ðạo</ho_ten>
+        <ntns>2005-01-27</ntns>
+        <diem_tb>8.8</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Thanh Thế</ho_ten>
+        <ntns>2005-04-06</ntns>
+        <diem_tb>8.31</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Phước Lộc</ho_ten>
+        <ntns>2005-04-03</ntns>
+        <diem_tb>8.0</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoàn Vi Bích Ðiệp</ho_ten>
+        <ntns>2005-04-16</ntns>
+        <diem_tb>8.87</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Xuân Bảo</ho_ten>
+        <ntns>2005-07-07</ntns>
+        <diem_tb>8.69</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hà Gia Khiêm</ho_ten>
+        <ntns>2005-09-24</ntns>
+        <diem_tb>8.52</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tôn Uyên Thy</ho_ten>
+        <ntns>2005-01-15</ntns>
+        <diem_tb>8.37</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Hữu Trí</ho_ten>
+        <ntns>2005-01-16</ntns>
+        <diem_tb>8.12</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Ân Lai</ho_ten>
+        <ntns>2005-08-06</ntns>
+        <diem_tb>8.38</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Hữu Hùng</ho_ten>
+        <ntns>2005-11-01</ntns>
+        <diem_tb>8.26</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đà Đan Như</ho_ten>
+        <ntns>2005-02-24</ntns>
+        <diem_tb>8.52</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Trúc Mai</ho_ten>
+        <ntns>2005-11-27</ntns>
+        <diem_tb>8.72</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Tịnh Nhi</ho_ten>
+        <ntns>2005-06-14</ntns>
+        <diem_tb>8.12</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phó Thanh Hiền</ho_ten>
+        <ntns>2005-02-06</ntns>
+        <diem_tb>8.15</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tưởng Ngô Lâm Ðức</ho_ten>
+        <ntns>2005-07-14</ntns>
+        <diem_tb>8.67</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lưu Xuân Thúy</ho_ten>
+        <ntns>2005-12-29</ntns>
+        <diem_tb>8.1</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tôn Nhật Dạ</ho_ten>
+        <ntns>2005-01-24</ntns>
+        <diem_tb>8.2</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đình Long Khanh</ho_ten>
+        <ntns>2005-09-22</ntns>
+        <diem_tb>8.02</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Thành An</ho_ten>
+        <ntns>2005-02-01</ntns>
+        <diem_tb>8.49</diem_tb>
+        <xep_loai>Giỏi</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ánh Đà Mạnh Tùng</ho_ten>
+        <ntns>2005-09-27</ntns>
+        <diem_tb>8.36</diem_tb>
         <xep_loai>Giỏi</xep_loai>
         <ket_qua>Hoàn thành</ket_qua>
     </Student>

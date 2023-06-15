@@ -10,7 +10,7 @@ def query_students(database_name, tentr, namhoc, xeploai):
     conn = mysql.connector.connect(
         host='localhost',
         user='root',
-        password='12012004vert',
+        password= '12012004vert',
         database = database_name
     )
     cursor = conn.cursor()
@@ -68,14 +68,13 @@ def query_students(database_name, tentr, namhoc, xeploai):
     conn.close()
     return query_time
 
-# nhập các tham số
-n = input("Nhập số lần query: ")
+#nhập các input
+database_name = input("Tên database: ")
+field_name = input("Tên trường: ")
+academic_year = input("Năm học: ")
+academic_rank = input("Xếp loại: ")
+query_time = query_students(database_name, field_name, academic_year, academic_rank)
+print(f"Thời gian truy vấn: " + f"{query_time} giây")
 
-# duyệt qua số lần query
-for i in range(int(n)):
-    database_name = input("Tên database lần " + str(i) + " : ")
-    field_name = input("Tên trường lần " + str(i) + " : ")
-    academic_year = input("Năm học lần " + str(i) + " : ")
-    academic_rank = input("Xếp loại lần " + str(i) + " : ")
-    query_time = query_students(database_name, field_name, academic_year, academic_rank)
-    print(f"Thời gian truy vấn lần " + str(i) +" : "+ f"{query_time} giây")
+
+    

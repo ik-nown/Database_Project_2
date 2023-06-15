@@ -1,0 +1,5708 @@
+<?xml version="1.0" ?>
+<Students>
+    <Student>
+        <ho_ten>Lại Cao Kỳ</ho_ten>
+        <ntns>2005-02-18</ntns>
+        <diem_tb>6.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hứa Thanh Minh</ho_ten>
+        <ntns>2005-03-18</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Thục Vân</ho_ten>
+        <ntns>2006-08-28</ntns>
+        <diem_tb>6.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Địch Vệ Quỳnh Lâm</ho_ten>
+        <ntns>2006-01-06</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Vương Băng Tâm</ho_ten>
+        <ntns>2006-03-07</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Nguyễn Trúc Lam</ho_ten>
+        <ntns>2005-04-16</ntns>
+        <diem_tb>7.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tăng Như Ngà</ho_ten>
+        <ntns>2005-07-18</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trình Lư Thanh Lam</ho_ten>
+        <ntns>2006-03-22</ntns>
+        <diem_tb>6.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Lục Khánh Hà</ho_ten>
+        <ntns>2006-03-09</ntns>
+        <diem_tb>7.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạc Lập Kim Thanh</ho_ten>
+        <ntns>2006-09-13</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Bác Long Khánh</ho_ten>
+        <ntns>2006-01-05</ntns>
+        <diem_tb>6.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Hùng Ngọc</ho_ten>
+        <ntns>2006-03-25</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thẩm Phạm Lạc Xuân</ho_ten>
+        <ntns>2005-12-08</ntns>
+        <diem_tb>6.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mộc Lan Thy</ho_ten>
+        <ntns>2006-11-29</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả Lực Lâm Quân</ho_ten>
+        <ntns>2006-08-29</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩ Lịch Ðình Toàn</ho_ten>
+        <ntns>2006-11-17</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phan Nhã Trúc</ho_ten>
+        <ntns>2005-05-03</ntns>
+        <diem_tb>7.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Linh Thảo</ho_ten>
+        <ntns>2005-02-12</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Yên Quỳnh Nhung</ho_ten>
+        <ntns>2006-08-09</ntns>
+        <diem_tb>7.43</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Tráng Lâm Quân</ho_ten>
+        <ntns>2006-08-09</ntns>
+        <diem_tb>6.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạt Tuấn Khanh</ho_ten>
+        <ntns>2005-11-16</ntns>
+        <diem_tb>6.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phùng Tiền Hoài Việt</ho_ten>
+        <ntns>2005-03-06</ntns>
+        <diem_tb>7.47</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Lam Khánh</ho_ten>
+        <ntns>2006-12-02</ntns>
+        <diem_tb>7.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tráng Mai Xuân Dung</ho_ten>
+        <ntns>2006-05-10</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Đan Ðầm</ho_ten>
+        <ntns>2006-11-13</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Ðức Tường</ho_ten>
+        <ntns>2006-11-03</ntns>
+        <diem_tb>7.25</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Anh Quốc</ho_ten>
+        <ntns>2005-02-06</ntns>
+        <diem_tb>7.22</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Trịnh Thục Oanh</ho_ten>
+        <ntns>2006-06-04</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thôi Việt Thông</ho_ten>
+        <ntns>2005-07-02</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Thủy Đông Ngọc</ho_ten>
+        <ntns>2006-04-28</ntns>
+        <diem_tb>7.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phạm Đông Phương</ho_ten>
+        <ntns>2005-05-19</ntns>
+        <diem_tb>7.06</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Hướng Thiện</ho_ten>
+        <ntns>2006-07-27</ntns>
+        <diem_tb>7.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Phương Quân</ho_ten>
+        <ntns>2005-10-11</ntns>
+        <diem_tb>7.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cung Đông Thục Uyên</ho_ten>
+        <ntns>2006-06-10</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Đan Lam</ho_ten>
+        <ntns>2005-07-26</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Địch Tài Nguyên</ho_ten>
+        <ntns>2006-05-28</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Thanh Thanh</ho_ten>
+        <ntns>2005-03-01</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Hiếu Liêm</ho_ten>
+        <ntns>2006-04-04</ntns>
+        <diem_tb>7.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Minh Mẫu</ho_ten>
+        <ntns>2005-11-27</ntns>
+        <diem_tb>7.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoạn Ðình Diệu</ho_ten>
+        <ntns>2006-06-09</ntns>
+        <diem_tb>7.35</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Xuân Lạc</ho_ten>
+        <ntns>2006-08-23</ntns>
+        <diem_tb>7.13</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Yến Trinh</ho_ten>
+        <ntns>2005-01-17</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Mạc Linh Dung</ho_ten>
+        <ntns>2006-07-09</ntns>
+        <diem_tb>7.08</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Gia Huy</ho_ten>
+        <ntns>2006-07-31</ntns>
+        <diem_tb>7.34</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thôi Thiếu Cường</ho_ten>
+        <ntns>2005-01-03</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Ngưu Ðức Kiên</ho_ten>
+        <ntns>2005-01-29</ntns>
+        <diem_tb>6.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vi Hoàng Linh</ho_ten>
+        <ntns>2005-12-14</ntns>
+        <diem_tb>6.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Đan Ðình</ho_ten>
+        <ntns>2005-03-14</ntns>
+        <diem_tb>7.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chung Từ Dung</ho_ten>
+        <ntns>2006-01-01</ntns>
+        <diem_tb>6.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Xuân Thuyết</ho_ten>
+        <ntns>2006-12-17</ntns>
+        <diem_tb>7.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phùng Tấn Yên Bằng</ho_ten>
+        <ntns>2005-04-15</ntns>
+        <diem_tb>6.72</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phó Mạnh Toàn</ho_ten>
+        <ntns>2005-08-20</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xuân Mã Thúy Ngân</ho_ten>
+        <ntns>2006-10-29</ntns>
+        <diem_tb>7.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiết Tăng Bá Thành</ho_ten>
+        <ntns>2005-09-30</ntns>
+        <diem_tb>7.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Sỹ Thực</ho_ten>
+        <ntns>2005-07-04</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Thụy Nương</ho_ten>
+        <ntns>2006-01-10</ntns>
+        <diem_tb>6.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Phương Quỳnh</ho_ten>
+        <ntns>2006-11-24</ntns>
+        <diem_tb>7.23</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Minh Khương</ho_ten>
+        <ntns>2005-10-31</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Phạm Anh Thơ</ho_ten>
+        <ntns>2005-05-19</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩnh Đàm Tuyết Nhi</ho_ten>
+        <ntns>2005-11-28</ntns>
+        <diem_tb>6.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Bành Minh Thọ</ho_ten>
+        <ntns>2006-04-13</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đông Lực Quốc Khánh</ho_ten>
+        <ntns>2005-01-11</ntns>
+        <diem_tb>6.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Giang Lam</ho_ten>
+        <ntns>2005-05-17</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phan Hà Công Ân</ho_ten>
+        <ntns>2005-09-04</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Quang Thiên</ho_ten>
+        <ntns>2005-09-16</ntns>
+        <diem_tb>7.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩ Võ Xuân Xuân</ho_ten>
+        <ntns>2006-02-11</ntns>
+        <diem_tb>7.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sầm Ðức Anh</ho_ten>
+        <ntns>2005-12-21</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lã Đoàn Phương Loan</ho_ten>
+        <ntns>2006-02-09</ntns>
+        <diem_tb>7.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Xuân Hòa</ho_ten>
+        <ntns>2005-02-06</ntns>
+        <diem_tb>7.38</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Hoàn Kiếm</ho_ten>
+        <ntns>2005-12-13</ntns>
+        <diem_tb>6.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lã Minh Tín</ho_ten>
+        <ntns>2006-12-14</ntns>
+        <diem_tb>7.3</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tăng Lâm Ðức</ho_ten>
+        <ntns>2006-04-07</ntns>
+        <diem_tb>7.43</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Ðức Giang</ho_ten>
+        <ntns>2005-09-06</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Khánh Hà</ho_ten>
+        <ntns>2006-06-23</ntns>
+        <diem_tb>6.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Tâm Hiền</ho_ten>
+        <ntns>2006-10-30</ntns>
+        <diem_tb>6.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Ngọc Thạch</ho_ten>
+        <ntns>2006-05-22</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chu Bạch Liên</ho_ten>
+        <ntns>2005-01-19</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nghiêm Tứ Bích Hợp</ho_ten>
+        <ntns>2005-02-25</ntns>
+        <diem_tb>7.06</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiền Lâm Vĩnh</ho_ten>
+        <ntns>2005-04-24</ntns>
+        <diem_tb>7.46</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Việt Thông</ho_ten>
+        <ntns>2006-06-22</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tấn Huỳnh Hiếu Phong</ho_ten>
+        <ntns>2005-05-18</ntns>
+        <diem_tb>7.72</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tôn Thành Châu</ho_ten>
+        <ntns>2005-01-08</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Phương Thùy</ho_ten>
+        <ntns>2006-03-10</ntns>
+        <diem_tb>7.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩnh Nhân Linh Chi</ho_ten>
+        <ntns>2006-11-26</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lịch Đan Linh Liên</ho_ten>
+        <ntns>2005-02-02</ntns>
+        <diem_tb>6.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Trung Nhân</ho_ten>
+        <ntns>2006-08-13</ntns>
+        <diem_tb>7.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nghiêm Nhã Ý</ho_ten>
+        <ntns>2006-12-01</ntns>
+        <diem_tb>7.13</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thôi Hoài Vỹ</ho_ten>
+        <ntns>2006-09-05</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Sơn Tuyền</ho_ten>
+        <ntns>2005-06-04</ntns>
+        <diem_tb>7.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Minh Hạnh</ho_ten>
+        <ntns>2005-03-18</ntns>
+        <diem_tb>7.27</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiến Phó Khánh Hoàn</ho_ten>
+        <ntns>2006-07-12</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Lãnh Nghĩa Dũng</ho_ten>
+        <ntns>2005-12-27</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Minh Khương</ho_ten>
+        <ntns>2005-02-24</ntns>
+        <diem_tb>6.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Hồng Thụy</ho_ten>
+        <ntns>2005-02-10</ntns>
+        <diem_tb>7.03</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạc Thẩm Minh Tâm</ho_ten>
+        <ntns>2006-07-27</ntns>
+        <diem_tb>6.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Thanh Thủy</ho_ten>
+        <ntns>2006-03-23</ntns>
+        <diem_tb>7.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩnh Lương Đông</ho_ten>
+        <ntns>2006-06-19</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Vĩnh Ðức Sinh</ho_ten>
+        <ntns>2005-10-12</ntns>
+        <diem_tb>7.28</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngô Lương Xuân</ho_ten>
+        <ntns>2005-10-13</ntns>
+        <diem_tb>7.34</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Phúc Duy</ho_ten>
+        <ntns>2006-12-15</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Đà Linh Xuân</ho_ten>
+        <ntns>2005-10-05</ntns>
+        <diem_tb>7.28</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lệnh Thái Thanh Phương</ho_ten>
+        <ntns>2006-12-14</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hà Mạnh Yến Vy</ho_ten>
+        <ntns>2006-07-10</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Đại Tuyền</ho_ten>
+        <ntns>2005-01-16</ntns>
+        <diem_tb>6.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Minh Ðông</ho_ten>
+        <ntns>2006-11-06</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Kim Sa</ho_ten>
+        <ntns>2005-06-21</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoãn Tố Nhi</ho_ten>
+        <ntns>2005-11-06</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Quách Hồng Hoa</ho_ten>
+        <ntns>2005-10-12</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Chung Khánh Ly</ho_ten>
+        <ntns>2005-02-20</ntns>
+        <diem_tb>6.54</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Hứa Huy Anh</ho_ten>
+        <ntns>2006-04-08</ntns>
+        <diem_tb>6.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Tưởng Phước Lộc</ho_ten>
+        <ntns>2006-12-14</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Gia Khánh</ho_ten>
+        <ntns>2006-03-19</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Thiện Thanh</ho_ten>
+        <ntns>2006-01-27</ntns>
+        <diem_tb>7.24</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đan Danh Thành</ho_ten>
+        <ntns>2005-05-01</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đan Hồng Bích Ngà</ho_ten>
+        <ntns>2006-03-10</ntns>
+        <diem_tb>7.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Tráng Thường Xuân</ho_ten>
+        <ntns>2006-03-28</ntns>
+        <diem_tb>7.19</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Quách Thúy Kiều</ho_ten>
+        <ntns>2005-09-06</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tưởng Cẩm Hường</ho_ten>
+        <ntns>2005-01-22</ntns>
+        <diem_tb>7.31</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Bá Lộc</ho_ten>
+        <ntns>2005-08-13</ntns>
+        <diem_tb>7.45</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Minh Ðồng</ho_ten>
+        <ntns>2005-07-08</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Thục Trinh</ho_ten>
+        <ntns>2005-11-06</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Đan Như</ho_ten>
+        <ntns>2006-09-13</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Khánh Chi</ho_ten>
+        <ntns>2005-07-22</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tần Quốc Thắng</ho_ten>
+        <ntns>2005-05-03</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Thạch Tuyết Tâm</ho_ten>
+        <ntns>2005-06-16</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chu Vũ Anh</ho_ten>
+        <ntns>2006-03-23</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Tư Thủy Trang</ho_ten>
+        <ntns>2006-07-04</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chân Mao An Khang</ho_ten>
+        <ntns>2005-04-29</ntns>
+        <diem_tb>7.44</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngô Khương Duy</ho_ten>
+        <ntns>2006-06-26</ntns>
+        <diem_tb>7.32</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Bùi Khánh Ly</ho_ten>
+        <ntns>2005-03-19</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trang Tăng Thiếu Mai</ho_ten>
+        <ntns>2005-09-14</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xương Khánh My</ho_ten>
+        <ntns>2006-10-11</ntns>
+        <diem_tb>6.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiền Linh Hoa</ho_ten>
+        <ntns>2006-05-23</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Lan Tuyến</ho_ten>
+        <ntns>2005-11-30</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đậu Linh Mai</ho_ten>
+        <ntns>2006-12-30</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Kim Trang</ho_ten>
+        <ntns>2005-10-16</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Ðoàn Tụ</ho_ten>
+        <ntns>2005-03-28</ntns>
+        <diem_tb>7.38</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Hữu Thiện</ho_ten>
+        <ntns>2006-07-15</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mai Thụy Khanh</ho_ten>
+        <ntns>2005-01-05</ntns>
+        <diem_tb>7.27</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Ngư Tuyết Nga</ho_ten>
+        <ntns>2006-10-12</ntns>
+        <diem_tb>7.42</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Yên Sơn</ho_ten>
+        <ntns>2005-02-14</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Tịnh Duy Hiền</ho_ten>
+        <ntns>2005-05-14</ntns>
+        <diem_tb>7.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Ung Thành Lợi</ho_ten>
+        <ntns>2005-09-07</ntns>
+        <diem_tb>7.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Linh Chi</ho_ten>
+        <ntns>2005-02-04</ntns>
+        <diem_tb>7.32</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mộc Thu Phong</ho_ten>
+        <ntns>2006-10-18</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lạc Xuân Quang Hưng</ho_ten>
+        <ntns>2005-11-29</ntns>
+        <diem_tb>7.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Tần Duy Thắng</ho_ten>
+        <ntns>2005-09-01</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy Cao Sỹ</ho_ten>
+        <ntns>2005-07-16</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Yên Lương Long</ho_ten>
+        <ntns>2006-11-27</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Tiểu My</ho_ten>
+        <ntns>2005-10-21</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoàn Tư Thái Lâm</ho_ten>
+        <ntns>2005-12-15</ntns>
+        <diem_tb>7.46</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Kim Khanh</ho_ten>
+        <ntns>2006-05-01</ntns>
+        <diem_tb>7.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hà Hồ Phương Uyên</ho_ten>
+        <ntns>2006-06-14</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Vân Hương</ho_ten>
+        <ntns>2005-12-06</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiễn Thi Tuyết Lâm</ho_ten>
+        <ntns>2006-10-09</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Đạo Thiên Ân</ho_ten>
+        <ntns>2005-04-21</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Tôn Thơ Thơ</ho_ten>
+        <ntns>2006-10-12</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Phúc Thịnh</ho_ten>
+        <ntns>2006-09-07</ntns>
+        <diem_tb>7.39</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Trác Bình Hòa</ho_ten>
+        <ntns>2005-03-01</ntns>
+        <diem_tb>7.38</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chung Yên Trâm</ho_ten>
+        <ntns>2005-09-04</ntns>
+        <diem_tb>7.13</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cung Ðình Phúc</ho_ten>
+        <ntns>2006-09-25</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bùi Bích Như</ho_ten>
+        <ntns>2006-10-15</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Đoàn Thanh Tuyền</ho_ten>
+        <ntns>2005-01-27</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Quang Lộc</ho_ten>
+        <ntns>2006-10-31</ntns>
+        <diem_tb>6.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Lãnh Bá Lộc</ho_ten>
+        <ntns>2005-06-30</ntns>
+        <diem_tb>7.44</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xương Hữu Tài</ho_ten>
+        <ntns>2006-01-20</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoan Hứa Kiều Hoa</ho_ten>
+        <ntns>2006-07-22</ntns>
+        <diem_tb>6.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Lan Ngọc</ho_ten>
+        <ntns>2006-08-11</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lâm Lư Đông Quỳnh</ho_ten>
+        <ntns>2006-12-09</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phó Duy Khiêm</ho_ten>
+        <ntns>2006-11-15</ntns>
+        <diem_tb>7.09</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thôi An Khê</ho_ten>
+        <ntns>2006-03-06</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Tuấn Anh</ho_ten>
+        <ntns>2005-08-28</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Thông Minh</ho_ten>
+        <ntns>2006-09-02</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạo Lâm Tuyết Hân</ho_ten>
+        <ntns>2006-02-26</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Thiện Sinh</ho_ten>
+        <ntns>2006-02-18</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ánh Hồng Minh</ho_ten>
+        <ntns>2005-06-01</ntns>
+        <diem_tb>6.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tấn Minh Vũ</ho_ten>
+        <ntns>2006-12-19</ntns>
+        <diem_tb>7.08</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Đại Việt Trinh</ho_ten>
+        <ntns>2006-05-04</ntns>
+        <diem_tb>7.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Phúc Duy</ho_ten>
+        <ntns>2005-07-16</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chung Lãnh Thu Nguyệt</ho_ten>
+        <ntns>2006-02-08</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cung Phúc Khang</ho_ten>
+        <ntns>2006-03-11</ntns>
+        <diem_tb>7.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đinh Phạm Quốc Minh</ho_ten>
+        <ntns>2005-08-13</ntns>
+        <diem_tb>7.03</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Kim Lan</ho_ten>
+        <ntns>2006-06-25</ntns>
+        <diem_tb>6.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Đoãn Bình Hòa</ho_ten>
+        <ntns>2005-09-20</ntns>
+        <diem_tb>7.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ân Thiện Phước</ho_ten>
+        <ntns>2006-03-31</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Chi Lan</ho_ten>
+        <ntns>2005-04-04</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Tấn Kim Cương</ho_ten>
+        <ntns>2006-10-18</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Tiến Huy Hoàng</ho_ten>
+        <ntns>2005-01-13</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiết Triệu Thúy Loan</ho_ten>
+        <ntns>2005-10-20</ntns>
+        <diem_tb>7.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Đỗ Mạnh Mã</ho_ten>
+        <ntns>2005-06-30</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lãnh Tịnh Yên</ho_ten>
+        <ntns>2005-01-25</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Thơ Thơ</ho_ten>
+        <ntns>2005-08-12</ntns>
+        <diem_tb>7.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Linh Mai</ho_ten>
+        <ntns>2005-12-17</ntns>
+        <diem_tb>6.65</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Đại Như</ho_ten>
+        <ntns>2006-03-26</ntns>
+        <diem_tb>7.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạo Khánh Hà</ho_ten>
+        <ntns>2005-12-26</ntns>
+        <diem_tb>7.18</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Xuân Uyên</ho_ten>
+        <ntns>2006-03-07</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Khải Hà</ho_ten>
+        <ntns>2005-11-17</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trương Mục Thu Oanh</ho_ten>
+        <ntns>2006-06-06</ntns>
+        <diem_tb>7.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Ngạn Bảo Hà</ho_ten>
+        <ntns>2005-03-22</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tần Thanh Lâm</ho_ten>
+        <ntns>2006-09-15</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩnh Thiên Hà</ho_ten>
+        <ntns>2005-02-02</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Khánh Ngọc</ho_ten>
+        <ntns>2006-09-18</ntns>
+        <diem_tb>7.2</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Xuân Oanh</ho_ten>
+        <ntns>2005-04-12</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Yên Khanh</ho_ten>
+        <ntns>2005-04-21</ntns>
+        <diem_tb>7.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Mạnh Vĩnh Hưng</ho_ten>
+        <ntns>2005-09-17</ntns>
+        <diem_tb>7.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Thiện Tính</ho_ten>
+        <ntns>2005-03-01</ntns>
+        <diem_tb>6.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Đan Mạnh Toàn</ho_ten>
+        <ntns>2006-04-07</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Tào Hữu Tường</ho_ten>
+        <ntns>2005-11-16</ntns>
+        <diem_tb>7.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Phượng Bích</ho_ten>
+        <ntns>2005-05-16</ntns>
+        <diem_tb>6.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Minh Quân</ho_ten>
+        <ntns>2005-09-21</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Cẩm Hạnh</ho_ten>
+        <ntns>2006-11-28</ntns>
+        <diem_tb>6.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngư Bá Phước</ho_ten>
+        <ntns>2005-10-29</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Đoan Như</ho_ten>
+        <ntns>2006-04-14</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Thanh Tú</ho_ten>
+        <ntns>2006-02-03</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Trường Phát</ho_ten>
+        <ntns>2005-08-23</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Thiên Mạnh</ho_ten>
+        <ntns>2006-10-27</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Tạ Đại Quỳnh</ho_ten>
+        <ntns>2005-12-09</ntns>
+        <diem_tb>7.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thượng Phúc Hòa</ho_ten>
+        <ntns>2005-09-22</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phùng Đậu Thiện Phước</ho_ten>
+        <ntns>2005-09-12</ntns>
+        <diem_tb>6.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Vĩnh Hưng</ho_ten>
+        <ntns>2005-11-21</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Thành Ý</ho_ten>
+        <ntns>2006-08-26</ntns>
+        <diem_tb>7.43</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Đoàn Ðình Kim</ho_ten>
+        <ntns>2005-08-08</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Quách Nhã Lý</ho_ten>
+        <ntns>2006-09-08</ntns>
+        <diem_tb>7.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Bưu Duy Quang</ho_ten>
+        <ntns>2005-08-14</ntns>
+        <diem_tb>6.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đinh Thi Chuẩn Khoa</ho_ten>
+        <ntns>2005-06-21</ntns>
+        <diem_tb>6.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chu Hồng Quý</ho_ten>
+        <ntns>2006-01-02</ntns>
+        <diem_tb>6.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lịch Hứa Vân Khanh</ho_ten>
+        <ntns>2005-12-15</ntns>
+        <diem_tb>6.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Nhã Lý</ho_ten>
+        <ntns>2005-05-17</ntns>
+        <diem_tb>7.42</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Ðức Khiêm</ho_ten>
+        <ntns>2005-12-01</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ánh Hữu Bình</ho_ten>
+        <ntns>2006-01-01</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Thụy Trinh</ho_ten>
+        <ntns>2005-10-06</ntns>
+        <diem_tb>7.35</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Tiên Phương</ho_ten>
+        <ntns>2006-03-02</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tăng Minh Luân</ho_ten>
+        <ntns>2005-07-14</ntns>
+        <diem_tb>6.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đường Chân Quỳnh Phương</ho_ten>
+        <ntns>2006-07-19</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Phượng Nhi</ho_ten>
+        <ntns>2005-05-28</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Phước Nhân</ho_ten>
+        <ntns>2006-01-08</ntns>
+        <diem_tb>6.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phó Hồng Hoa</ho_ten>
+        <ntns>2006-12-18</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Bác Lương Trọng</ho_ten>
+        <ntns>2006-08-04</ntns>
+        <diem_tb>7.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Lâm Thành</ho_ten>
+        <ntns>2006-02-17</ntns>
+        <diem_tb>7.28</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Mục Trang Ðài</ho_ten>
+        <ntns>2005-05-08</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Kim Sa</ho_ten>
+        <ntns>2005-03-27</ntns>
+        <diem_tb>6.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiệm Lý Minh Tường</ho_ten>
+        <ntns>2005-07-24</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sầm Vân Nhi</ho_ten>
+        <ntns>2006-07-21</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả Hàng Lam Phượng</ho_ten>
+        <ntns>2006-02-05</ntns>
+        <diem_tb>6.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Ðại Thống</ho_ten>
+        <ntns>2006-09-28</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Yên Thanh Mẫn</ho_ten>
+        <ntns>2005-06-30</ntns>
+        <diem_tb>7.39</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Đăng Khương</ho_ten>
+        <ntns>2005-11-07</ntns>
+        <diem_tb>7.22</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Ngọc Thọ</ho_ten>
+        <ntns>2005-09-15</ntns>
+        <diem_tb>7.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả Phan Đông Vân</ho_ten>
+        <ntns>2006-11-20</ntns>
+        <diem_tb>7.07</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Kiết Trinh</ho_ten>
+        <ntns>2006-05-13</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lưu Tường Chinh</ho_ten>
+        <ntns>2005-12-24</ntns>
+        <diem_tb>7.31</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Từ Quang Thắng</ho_ten>
+        <ntns>2006-10-16</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Thành Tín</ho_ten>
+        <ntns>2005-04-15</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Kim Anh</ho_ten>
+        <ntns>2006-09-13</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lịch Chung Tuyết Chi</ho_ten>
+        <ntns>2005-06-09</ntns>
+        <diem_tb>7.32</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Yến Ðiệp</ho_ten>
+        <ntns>2005-01-27</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Địch Trường Vũ</ho_ten>
+        <ntns>2005-08-27</ntns>
+        <diem_tb>6.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Phượng Vy</ho_ten>
+        <ntns>2006-11-07</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Xuân Thuyết</ho_ten>
+        <ntns>2006-06-12</ntns>
+        <diem_tb>7.08</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngưu Tô Yến Phương</ho_ten>
+        <ntns>2006-07-31</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Đàm Phương Nhi</ho_ten>
+        <ntns>2006-04-21</ntns>
+        <diem_tb>6.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoàn Hùng Cường</ho_ten>
+        <ntns>2006-08-31</ntns>
+        <diem_tb>7.36</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Quách Kiều Lan</ho_ten>
+        <ntns>2006-01-16</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy Xương Thảo Vy</ho_ten>
+        <ntns>2005-05-19</ntns>
+        <diem_tb>7.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trình Tùng Lan Yến</ho_ten>
+        <ntns>2006-06-21</ntns>
+        <diem_tb>7.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Tuệ Mẫn</ho_ten>
+        <ntns>2006-04-27</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chu Thiện Tính</ho_ten>
+        <ntns>2005-06-16</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngư Phương Anh</ho_ten>
+        <ntns>2005-12-04</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bùi Tào Duy Tiếp</ho_ten>
+        <ntns>2005-12-23</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ân Thúy Hường</ho_ten>
+        <ntns>2006-03-24</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sầm Phụng Yến</ho_ten>
+        <ntns>2006-06-01</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Thiên Hà</ho_ten>
+        <ntns>2006-02-19</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mang Uy Phong</ho_ten>
+        <ntns>2006-01-28</ntns>
+        <diem_tb>6.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Tiêu Kiều Khanh</ho_ten>
+        <ntns>2006-05-02</ntns>
+        <diem_tb>7.13</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đông Ðức Trung</ho_ten>
+        <ntns>2006-03-29</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Tả Lan Phượng</ho_ten>
+        <ntns>2006-12-02</ntns>
+        <diem_tb>7.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Việt Hồng</ho_ten>
+        <ntns>2005-09-03</ntns>
+        <diem_tb>7.46</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Vĩnh Long Việt</ho_ten>
+        <ntns>2005-05-26</ntns>
+        <diem_tb>6.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Công Hậu</ho_ten>
+        <ntns>2006-04-16</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Triệu Lan Hương</ho_ten>
+        <ntns>2005-04-12</ntns>
+        <diem_tb>7.38</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ân Khắc Dũng</ho_ten>
+        <ntns>2005-01-15</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Diệp Thùy Dương</ho_ten>
+        <ntns>2005-07-27</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Bá Thành</ho_ten>
+        <ntns>2005-05-15</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Linh Khánh</ho_ten>
+        <ntns>2005-04-02</ntns>
+        <diem_tb>7.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xương Yến Phương</ho_ten>
+        <ntns>2006-12-19</ntns>
+        <diem_tb>7.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Nhã Mai</ho_ten>
+        <ntns>2005-03-03</ntns>
+        <diem_tb>7.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoàn Quang Thiên</ho_ten>
+        <ntns>2005-01-31</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Địch Ung Phương Diễm</ho_ten>
+        <ntns>2006-03-01</ntns>
+        <diem_tb>6.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tần Đan Ðỗ</ho_ten>
+        <ntns>2006-08-28</ntns>
+        <diem_tb>7.49</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoan Tiền Giang</ho_ten>
+        <ntns>2005-07-08</ntns>
+        <diem_tb>7.32</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Toàn Thắng</ho_ten>
+        <ntns>2006-06-08</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Cao Thu Hậu</ho_ten>
+        <ntns>2005-12-24</ntns>
+        <diem_tb>7.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đại Phan Bích Nga</ho_ten>
+        <ntns>2006-03-14</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đồng Đậu Tâm Đan</ho_ten>
+        <ntns>2006-11-24</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tịnh Lê Hữu Tân</ho_ten>
+        <ntns>2005-03-06</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chân Thụy Nương</ho_ten>
+        <ntns>2005-09-13</ntns>
+        <diem_tb>7.34</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vũ Tấn Nam</ho_ten>
+        <ntns>2006-06-26</ntns>
+        <diem_tb>6.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Đại Hạnh</ho_ten>
+        <ntns>2005-12-05</ntns>
+        <diem_tb>7.46</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Khắc Kỷ</ho_ten>
+        <ntns>2006-02-08</ntns>
+        <diem_tb>7.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Cung Thanh Nga</ho_ten>
+        <ntns>2005-11-02</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Mang Khánh Chi</ho_ten>
+        <ntns>2006-06-19</ntns>
+        <diem_tb>7.49</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Kim Hương</ho_ten>
+        <ntns>2006-07-30</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tráng Vương Tiến Hoạt</ho_ten>
+        <ntns>2006-05-05</ntns>
+        <diem_tb>6.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Tâm Trang</ho_ten>
+        <ntns>2006-04-10</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Hồ Yên Quyên</ho_ten>
+        <ntns>2006-01-09</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoan Thiên Trí</ho_ten>
+        <ntns>2005-08-03</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Triệu Cấn Trâm Oanh</ho_ten>
+        <ntns>2006-06-04</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Lạc Thương</ho_ten>
+        <ntns>2005-03-26</ntns>
+        <diem_tb>6.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Huỳnh Thiên Bửu</ho_ten>
+        <ntns>2006-04-19</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lạc Nông Ðình Hợp</ho_ten>
+        <ntns>2006-06-11</ntns>
+        <diem_tb>7.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Bạch Thy Oanh</ho_ten>
+        <ntns>2006-01-15</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lịch Phương Lan</ho_ten>
+        <ntns>2006-08-13</ntns>
+        <diem_tb>7.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Song Kê</ho_ten>
+        <ntns>2005-12-01</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đinh Xuân Uyên</ho_ten>
+        <ntns>2006-08-22</ntns>
+        <diem_tb>7.05</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Lương Bình Ðạt</ho_ten>
+        <ntns>2005-07-26</ntns>
+        <diem_tb>7.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vũ Linh Lan</ho_ten>
+        <ntns>2005-05-24</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Phượng Liên</ho_ten>
+        <ntns>2006-12-29</ntns>
+        <diem_tb>7.25</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Quách Long Phát</ho_ten>
+        <ntns>2005-07-15</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Lã Đan Lam</ho_ten>
+        <ntns>2006-07-27</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lưu Lại Tường Phát</ho_ten>
+        <ntns>2006-10-06</ntns>
+        <diem_tb>7.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đà Ung Yến Chi</ho_ten>
+        <ntns>2005-04-24</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Quốc Việt</ho_ten>
+        <ntns>2005-09-03</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Lã Uyển My</ho_ten>
+        <ntns>2006-08-30</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chu Cao Cát Cát</ho_ten>
+        <ntns>2006-10-03</ntns>
+        <diem_tb>7.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Hiếu Học</ho_ten>
+        <ntns>2006-02-04</ntns>
+        <diem_tb>7.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Thanh Lâm</ho_ten>
+        <ntns>2006-02-15</ntns>
+        <diem_tb>6.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chung Thảo Lan Ly</ho_ten>
+        <ntns>2005-05-17</ntns>
+        <diem_tb>7.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Chung Quốc Thành</ho_ten>
+        <ntns>2005-05-09</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiếp Đại Thu Yến</ho_ten>
+        <ntns>2006-07-05</ntns>
+        <diem_tb>7.01</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Khang Ðức Thắng</ho_ten>
+        <ntns>2006-05-11</ntns>
+        <diem_tb>6.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Minh Kiên</ho_ten>
+        <ntns>2005-10-22</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tùng Quang Tú</ho_ten>
+        <ntns>2005-03-30</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Yến Xuân</ho_ten>
+        <ntns>2005-04-05</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoàn Thanh Lâm</ho_ten>
+        <ntns>2005-09-13</ntns>
+        <diem_tb>7.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoạn Vũ Vân Hương</ho_ten>
+        <ntns>2006-03-04</ntns>
+        <diem_tb>6.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Từ Lam Ngọc</ho_ten>
+        <ntns>2005-04-28</ntns>
+        <diem_tb>7.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vũ Quang Nhật</ho_ten>
+        <ntns>2005-03-19</ntns>
+        <diem_tb>7.33</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đồng Đông Phi</ho_ten>
+        <ntns>2006-07-09</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tôn Tống Thục Anh</ho_ten>
+        <ntns>2006-08-21</ntns>
+        <diem_tb>7.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Đường Trọng Dũng</ho_ten>
+        <ntns>2005-05-20</ntns>
+        <diem_tb>6.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Phạm Bửu Diệp</ho_ten>
+        <ntns>2005-03-25</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phan Yến Ly</ho_ten>
+        <ntns>2005-03-16</ntns>
+        <diem_tb>6.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Dương Nhật Linh</ho_ten>
+        <ntns>2005-07-28</ntns>
+        <diem_tb>6.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Lê Kim Tuyền</ho_ten>
+        <ntns>2006-02-15</ntns>
+        <diem_tb>7.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Phú Hùng</ho_ten>
+        <ntns>2006-10-26</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Triệu Tiết Hồng Sơn</ho_ten>
+        <ntns>2006-03-31</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Thái Chi</ho_ten>
+        <ntns>2005-08-19</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Phan Anh Tài</ho_ten>
+        <ntns>2006-08-12</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Vũ Cao Tiến</ho_ten>
+        <ntns>2006-07-04</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Yến Chi</ho_ten>
+        <ntns>2006-05-05</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trương Cung Vy Lan</ho_ten>
+        <ntns>2005-12-25</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thảo Tuệ Lâm</ho_ten>
+        <ntns>2006-09-06</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trang Ngụy Ðắc Thái</ho_ten>
+        <ntns>2005-07-21</ntns>
+        <diem_tb>7.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Vĩnh Hải</ho_ten>
+        <ntns>2005-01-15</ntns>
+        <diem_tb>7.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tư Nhã Hương</ho_ten>
+        <ntns>2005-05-27</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Nhật Ánh</ho_ten>
+        <ntns>2006-11-23</ntns>
+        <diem_tb>6.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhân Mộc Minh Phú</ho_ten>
+        <ntns>2006-12-06</ntns>
+        <diem_tb>7.23</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Tả Lan Chi</ho_ten>
+        <ntns>2006-11-13</ntns>
+        <diem_tb>7.35</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Đoãn Giang Lam</ho_ten>
+        <ntns>2005-09-16</ntns>
+        <diem_tb>6.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoạn Vân Thường</ho_ten>
+        <ntns>2005-10-21</ntns>
+        <diem_tb>7.33</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mai Thành Ý</ho_ten>
+        <ntns>2006-03-10</ntns>
+        <diem_tb>6.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Đạt Lâm Ðịnh</ho_ten>
+        <ntns>2005-05-09</ntns>
+        <diem_tb>6.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Dũng Trí</ho_ten>
+        <ntns>2005-08-10</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Thanh Nhã</ho_ten>
+        <ntns>2005-09-10</ntns>
+        <diem_tb>6.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vương Mạnh Xuân</ho_ten>
+        <ntns>2006-01-11</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cung Huy Khiêm</ho_ten>
+        <ntns>2006-10-15</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phó Tố Tâm</ho_ten>
+        <ntns>2005-03-06</ntns>
+        <diem_tb>7.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đường Tuyết Xuân</ho_ten>
+        <ntns>2005-03-15</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả Nhiệm Linh Thanh</ho_ten>
+        <ntns>2005-12-10</ntns>
+        <diem_tb>7.34</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạt Thúy Kiều</ho_ten>
+        <ntns>2005-11-12</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tấn Vũ Thuần Hậu</ho_ten>
+        <ntns>2005-03-30</ntns>
+        <diem_tb>6.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đậu Tư Trúc Vân</ho_ten>
+        <ntns>2005-11-06</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Khánh Minh</ho_ten>
+        <ntns>2005-03-22</ntns>
+        <diem_tb>7.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngưu Ngọc Tuấn</ho_ten>
+        <ntns>2005-12-05</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngô Ðình Nguyên</ho_ten>
+        <ntns>2006-01-16</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiễn Thạch Sơn</ho_ten>
+        <ntns>2005-12-19</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sầm Mạnh Thái Chi</ho_ten>
+        <ntns>2005-12-12</ntns>
+        <diem_tb>7.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lã Thúy Ngà</ho_ten>
+        <ntns>2005-05-14</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lệnh Tiến Thái San</ho_ten>
+        <ntns>2005-11-04</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thảo Tài Ðức</ho_ten>
+        <ntns>2005-04-22</ntns>
+        <diem_tb>7.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đan Trúc Sinh</ho_ten>
+        <ntns>2005-12-23</ntns>
+        <diem_tb>6.54</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Nhã Uyên</ho_ten>
+        <ntns>2005-04-11</ntns>
+        <diem_tb>7.22</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Đoan Vân</ho_ten>
+        <ntns>2005-05-10</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đà Bành Thúy Mai</ho_ten>
+        <ntns>2006-10-06</ntns>
+        <diem_tb>6.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đồng Vân Thường</ho_ten>
+        <ntns>2006-09-29</ntns>
+        <diem_tb>6.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Cẩm Linh</ho_ten>
+        <ntns>2005-08-24</ntns>
+        <diem_tb>7.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Xuân Linh</ho_ten>
+        <ntns>2006-11-04</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả Bình An</ho_ten>
+        <ntns>2005-01-19</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Thủy Hồ Bắc</ho_ten>
+        <ntns>2006-11-14</ntns>
+        <diem_tb>7.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Lại Lan Ly</ho_ten>
+        <ntns>2006-04-05</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Quách Phúc Cường</ho_ten>
+        <ntns>2006-06-30</ntns>
+        <diem_tb>6.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tráng Gia Hoàng</ho_ten>
+        <ntns>2006-04-11</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tùng Thủy Vàng Anh</ho_ten>
+        <ntns>2006-04-15</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Thanh Toản</ho_ten>
+        <ntns>2005-02-07</ntns>
+        <diem_tb>6.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngưu Duy Thành</ho_ten>
+        <ntns>2006-08-12</ntns>
+        <diem_tb>7.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Lý Bảo Lâm</ho_ten>
+        <ntns>2005-11-10</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Nhan Hồng</ho_ten>
+        <ntns>2006-05-28</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thẩm Mạnh Việt</ho_ten>
+        <ntns>2006-07-11</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Ngưu Hồng Quang</ho_ten>
+        <ntns>2005-03-04</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Bảo Thoa</ho_ten>
+        <ntns>2005-10-09</ntns>
+        <diem_tb>7.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thẩm Ngụy Ðịnh Siêu</ho_ten>
+        <ntns>2006-12-28</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Xuân Mạnh Thế</ho_ten>
+        <ntns>2006-03-29</ntns>
+        <diem_tb>6.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tư Mạnh Tùng</ho_ten>
+        <ntns>2006-11-28</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Tiết Vân Quyên</ho_ten>
+        <ntns>2005-05-21</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Lục Triệu Mẫn</ho_ten>
+        <ntns>2005-03-05</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Mạnh Minh</ho_ten>
+        <ntns>2005-01-23</ntns>
+        <diem_tb>7.25</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Tố Nhi</ho_ten>
+        <ntns>2005-03-14</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Triệu Thành Công</ho_ten>
+        <ntns>2005-07-11</ntns>
+        <diem_tb>7.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đông Đan Uyên</ho_ten>
+        <ntns>2005-10-23</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhân Sầm Minh Thắng</ho_ten>
+        <ntns>2006-12-05</ntns>
+        <diem_tb>7.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Minh Phong</ho_ten>
+        <ntns>2005-08-15</ntns>
+        <diem_tb>7.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Nam Phương</ho_ten>
+        <ntns>2005-10-29</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Ðông Dương</ho_ten>
+        <ntns>2006-08-25</ntns>
+        <diem_tb>7.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Tịnh Nhi</ho_ten>
+        <ntns>2005-05-27</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đào Vân Quyên</ho_ten>
+        <ntns>2005-06-04</ntns>
+        <diem_tb>7.09</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Lục Quang Linh</ho_ten>
+        <ntns>2006-12-10</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngô Trịnh Việt Quyết</ho_ten>
+        <ntns>2006-09-08</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Phi Nhung</ho_ten>
+        <ntns>2006-02-01</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Thái Anh Vũ</ho_ten>
+        <ntns>2005-05-26</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thảo Quang Hùng</ho_ten>
+        <ntns>2006-03-23</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Mộc Tuấn Việt</ho_ten>
+        <ntns>2006-07-13</ntns>
+        <diem_tb>7.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lâm Vũ Bích San</ho_ten>
+        <ntns>2005-07-27</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Hồ Thanh Kiên</ho_ten>
+        <ntns>2005-06-09</ntns>
+        <diem_tb>7.09</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tùng Phi Ðiệp</ho_ten>
+        <ntns>2006-06-07</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phạm Bảo Lan</ho_ten>
+        <ntns>2006-12-31</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Mạnh Kiểm</ho_ten>
+        <ntns>2006-03-28</ntns>
+        <diem_tb>6.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ánh Tiểu My</ho_ten>
+        <ntns>2005-06-11</ntns>
+        <diem_tb>6.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Tạc Kim Đan</ho_ten>
+        <ntns>2005-11-23</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Đà Việt Dương</ho_ten>
+        <ntns>2005-12-16</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Vĩ Ðình Quảng</ho_ten>
+        <ntns>2006-02-03</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Ðức Sinh</ho_ten>
+        <ntns>2005-12-24</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đổng Tịnh Thúy Nga</ho_ten>
+        <ntns>2006-06-21</ntns>
+        <diem_tb>7.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Đàm Thanh Lam</ho_ten>
+        <ntns>2006-08-17</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Lạc Thiên</ho_ten>
+        <ntns>2005-07-18</ntns>
+        <diem_tb>6.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Hoàng Khải</ho_ten>
+        <ntns>2006-05-26</ntns>
+        <diem_tb>6.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tịnh Thẩm Lạc Lâm</ho_ten>
+        <ntns>2006-08-12</ntns>
+        <diem_tb>7.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vi Yên Lam Hương</ho_ten>
+        <ntns>2006-10-19</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lục Triệu Thái</ho_ten>
+        <ntns>2006-02-27</ntns>
+        <diem_tb>7.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Minh Thọ</ho_ten>
+        <ntns>2006-10-29</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lịch Trình Thái Tân</ho_ten>
+        <ntns>2005-01-29</ntns>
+        <diem_tb>7.05</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Tùng Tiến Hoạt</ho_ten>
+        <ntns>2005-08-13</ntns>
+        <diem_tb>6.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Lam Xuyến</ho_ten>
+        <ntns>2006-02-02</ntns>
+        <diem_tb>7.19</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩnh Bảo Hiển</ho_ten>
+        <ntns>2006-11-29</ntns>
+        <diem_tb>6.54</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Triệu Duy Hùng</ho_ten>
+        <ntns>2006-01-23</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thảo Anh Mai</ho_ten>
+        <ntns>2005-12-05</ntns>
+        <diem_tb>7.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoan Công Thành</ho_ten>
+        <ntns>2006-10-12</ntns>
+        <diem_tb>7.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Quỳnh Phương</ho_ten>
+        <ntns>2006-01-12</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tấn Đông Xuân</ho_ten>
+        <ntns>2006-02-11</ntns>
+        <diem_tb>6.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tịnh Trí Minh</ho_ten>
+        <ntns>2005-08-17</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Vĩ Đan Nguyệt</ho_ten>
+        <ntns>2006-11-03</ntns>
+        <diem_tb>6.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Đan Ðặng</ho_ten>
+        <ntns>2005-10-12</ntns>
+        <diem_tb>7.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiễn Bạch Yến</ho_ten>
+        <ntns>2006-09-07</ntns>
+        <diem_tb>7.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Bưu Sao Băng</ho_ten>
+        <ntns>2005-02-04</ntns>
+        <diem_tb>7.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Khắc Triệu</ho_ten>
+        <ntns>2006-03-08</ntns>
+        <diem_tb>6.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạt Vệ Hoài Nam</ho_ten>
+        <ntns>2005-06-18</ntns>
+        <diem_tb>7.45</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Phương Giang</ho_ten>
+        <ntns>2006-09-24</ntns>
+        <diem_tb>7.3</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đinh Gia Nghị</ho_ten>
+        <ntns>2006-01-16</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khiết Vy Lam</ho_ten>
+        <ntns>2006-09-12</ntns>
+        <diem_tb>7.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đan Phó Thu Việt</ho_ten>
+        <ntns>2006-10-14</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Bích Ngọc</ho_ten>
+        <ntns>2006-03-26</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Long Quân</ho_ten>
+        <ntns>2006-10-23</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Thiện Giang</ho_ten>
+        <ntns>2005-10-14</ntns>
+        <diem_tb>7.94</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Lý Hiệp Hòa</ho_ten>
+        <ntns>2006-03-31</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiến Minh Phát</ho_ten>
+        <ntns>2006-01-15</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đồng Lý Kiều Linh</ho_ten>
+        <ntns>2005-07-12</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Ngô Duy Tuyền</ho_ten>
+        <ntns>2005-01-03</ntns>
+        <diem_tb>7.06</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trương Trần Lương Hoàng</ho_ten>
+        <ntns>2005-06-24</ntns>
+        <diem_tb>7.08</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tịnh Hữu Hiệp</ho_ten>
+        <ntns>2006-05-25</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Tạc Ðịnh Lực</ho_ten>
+        <ntns>2006-10-08</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Tào Việt Long</ho_ten>
+        <ntns>2005-06-09</ntns>
+        <diem_tb>7.33</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Ngọc Đàn</ho_ten>
+        <ntns>2005-06-29</ntns>
+        <diem_tb>7.24</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiền Thiên Lan</ho_ten>
+        <ntns>2006-08-30</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Đàm Anh Phương</ho_ten>
+        <ntns>2005-09-24</ntns>
+        <diem_tb>6.64</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Nhiên Hồng Minh</ho_ten>
+        <ntns>2005-09-03</ntns>
+        <diem_tb>7.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạc Trâm Oanh</ho_ten>
+        <ntns>2005-04-04</ntns>
+        <diem_tb>7.45</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Xuân Hương</ho_ten>
+        <ntns>2006-08-10</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đình Lam Ánh</ho_ten>
+        <ntns>2006-03-15</ntns>
+        <diem_tb>7.2</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Lã Bảo Thạch</ho_ten>
+        <ntns>2005-12-31</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Độ Đông Uyên</ho_ten>
+        <ntns>2006-09-04</ntns>
+        <diem_tb>7.38</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Kim Vượng</ho_ten>
+        <ntns>2006-11-24</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Hùng Thịnh</ho_ten>
+        <ntns>2005-03-09</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Đổng Quang Hưng</ho_ten>
+        <ntns>2005-03-15</ntns>
+        <diem_tb>7.08</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Đặng Việt Chính</ho_ten>
+        <ntns>2006-10-15</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Ngô Thảo Nhi</ho_ten>
+        <ntns>2005-05-22</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Nhật Quốc</ho_ten>
+        <ntns>2006-10-22</ntns>
+        <diem_tb>7.24</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xuân Hồng Liêm</ho_ten>
+        <ntns>2005-02-13</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Tưởng Việt Hương</ho_ten>
+        <ntns>2006-12-05</ntns>
+        <diem_tb>7.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đà Đạo Như Quỳnh</ho_ten>
+        <ntns>2006-12-12</ntns>
+        <diem_tb>7.46</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cao Thạch Khuyến Học</ho_ten>
+        <ntns>2005-12-04</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đường Bảo Châu</ho_ten>
+        <ntns>2006-06-30</ntns>
+        <diem_tb>7.19</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Ðức Duy</ho_ten>
+        <ntns>2005-12-07</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đình Bác Nghị Quyền</ho_ten>
+        <ntns>2005-05-22</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Lan Thanh</ho_ten>
+        <ntns>2005-11-02</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lâm Bùi Bích Vân</ho_ten>
+        <ntns>2006-09-11</ntns>
+        <diem_tb>7.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Hồng Lâm</ho_ten>
+        <ntns>2006-06-07</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Phúc Sinh</ho_ten>
+        <ntns>2005-08-13</ntns>
+        <diem_tb>6.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Lập Bảo Châu</ho_ten>
+        <ntns>2005-10-04</ntns>
+        <diem_tb>7.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Tả Gia Cẩn</ho_ten>
+        <ntns>2005-09-03</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiễn Thế Hùng</ho_ten>
+        <ntns>2006-12-12</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Thụy Uyên</ho_ten>
+        <ntns>2005-10-10</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Viên Quế Chi</ho_ten>
+        <ntns>2006-08-22</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Phùng Trọng Duy</ho_ten>
+        <ntns>2005-01-31</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoãn Hồ Ðức Toàn</ho_ten>
+        <ntns>2005-03-02</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phan Đại Tuyền</ho_ten>
+        <ntns>2006-04-24</ntns>
+        <diem_tb>6.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Đàm Kiều Nhung</ho_ten>
+        <ntns>2006-05-08</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mang Duy Quang</ho_ten>
+        <ntns>2005-09-28</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lê Đặng Phi Ðiệp</ho_ten>
+        <ntns>2006-02-25</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Uyển Nghi</ho_ten>
+        <ntns>2005-07-25</ntns>
+        <diem_tb>7.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tả An Tâm</ho_ten>
+        <ntns>2006-03-31</ntns>
+        <diem_tb>6.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Mai Tuấn Kiệt</ho_ten>
+        <ntns>2006-12-26</ntns>
+        <diem_tb>6.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lã Thục Khuê</ho_ten>
+        <ntns>2005-11-05</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trình Gia Phúc</ho_ten>
+        <ntns>2005-04-16</ntns>
+        <diem_tb>7.1</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạo Thạch Đại Quyên</ho_ten>
+        <ntns>2005-04-08</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Quốc Phong</ho_ten>
+        <ntns>2005-01-02</ntns>
+        <diem_tb>7.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Ánh Kiều Mai</ho_ten>
+        <ntns>2005-03-29</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Ðức Quyền</ho_ten>
+        <ntns>2005-03-04</ntns>
+        <diem_tb>7.28</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Phúc Lâm</ho_ten>
+        <ntns>2005-03-08</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đào Phượng Liên</ho_ten>
+        <ntns>2005-09-20</ntns>
+        <diem_tb>7.45</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thượng Bảo Quỳnh</ho_ten>
+        <ntns>2005-01-02</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lạc Bạch Lam Dung</ho_ten>
+        <ntns>2006-08-04</ntns>
+        <diem_tb>7.14</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vi Đan Linh</ho_ten>
+        <ntns>2005-04-15</ntns>
+        <diem_tb>6.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hà Kim Khuyên</ho_ten>
+        <ntns>2005-01-14</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Hồng Trúc</ho_ten>
+        <ntns>2006-11-18</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Hồng Thụy</ho_ten>
+        <ntns>2006-08-18</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Nhật Hùng</ho_ten>
+        <ntns>2005-05-08</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy Tiền Đại Minh</ho_ten>
+        <ntns>2005-08-21</ntns>
+        <diem_tb>6.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Thục Ðào</ho_ten>
+        <ntns>2006-04-21</ntns>
+        <diem_tb>6.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Xuân Hiếu</ho_ten>
+        <ntns>2006-12-04</ntns>
+        <diem_tb>7.42</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Kim Thủy</ho_ten>
+        <ntns>2006-07-07</ntns>
+        <diem_tb>7.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoạn An Khê</ho_ten>
+        <ntns>2005-09-17</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngưu Thế Dân</ho_ten>
+        <ntns>2006-12-07</ntns>
+        <diem_tb>7.19</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vương Ngư Quang Hùng</ho_ten>
+        <ntns>2006-09-05</ntns>
+        <diem_tb>7.3</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tư Độ Tuấn Minh</ho_ten>
+        <ntns>2006-12-31</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tấn Minh Lạc</ho_ten>
+        <ntns>2005-05-07</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Nhật Quang</ho_ten>
+        <ntns>2005-09-04</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiền Thanh Tuyền</ho_ten>
+        <ntns>2005-01-11</ntns>
+        <diem_tb>6.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiếp Duy Hiền</ho_ten>
+        <ntns>2005-04-13</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mục Xuân Loan</ho_ten>
+        <ntns>2006-05-27</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đổng Ðồng Khánh</ho_ten>
+        <ntns>2006-04-22</ntns>
+        <diem_tb>7.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tần Tấn Việt Huy</ho_ten>
+        <ntns>2005-10-18</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Sỹ Ðan</ho_ten>
+        <ntns>2005-10-28</ntns>
+        <diem_tb>7.06</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Tạc Quốc Mỹ</ho_ten>
+        <ntns>2005-06-14</ntns>
+        <diem_tb>7.44</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Bạch Quỳnh</ho_ten>
+        <ntns>2005-05-22</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Lan Hoa</ho_ten>
+        <ntns>2005-05-07</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Hùng Ngọc</ho_ten>
+        <ntns>2005-08-20</ntns>
+        <diem_tb>7.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phùng Lan Hương</ho_ten>
+        <ntns>2006-02-06</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Chân Phó Hữu Ðạt</ho_ten>
+        <ntns>2006-01-12</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xương Tống Ðắc Thành</ho_ten>
+        <ntns>2006-08-09</ntns>
+        <diem_tb>7.02</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Quốc Mạnh</ho_ten>
+        <ntns>2006-04-12</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Trúc Đào</ho_ten>
+        <ntns>2006-11-04</ntns>
+        <diem_tb>7.06</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Ðức Long</ho_ten>
+        <ntns>2006-05-12</ntns>
+        <diem_tb>7.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngư Tịnh Nhi</ho_ten>
+        <ntns>2006-08-29</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Tuấn Châu</ho_ten>
+        <ntns>2006-01-24</ntns>
+        <diem_tb>7.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Duy Thanh</ho_ten>
+        <ntns>2005-08-15</ntns>
+        <diem_tb>6.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Yên Gia Ðức</ho_ten>
+        <ntns>2005-03-08</ntns>
+        <diem_tb>7.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Đại Quyên</ho_ten>
+        <ntns>2005-01-19</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Khắc Công</ho_ten>
+        <ntns>2006-06-10</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Thành Sang</ho_ten>
+        <ntns>2006-01-14</ntns>
+        <diem_tb>7.65</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Thái Tài Nguyên</ho_ten>
+        <ntns>2005-08-31</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phùng Thúy Anh</ho_ten>
+        <ntns>2005-08-18</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Vy Lan</ho_ten>
+        <ntns>2006-08-19</ntns>
+        <diem_tb>6.72</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Mạnh Thịnh Cường</ho_ten>
+        <ntns>2006-09-12</ntns>
+        <diem_tb>6.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tưởng Đỗ Trọng Duy</ho_ten>
+        <ntns>2005-04-10</ntns>
+        <diem_tb>6.66</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Địch Phượng Nga</ho_ten>
+        <ntns>2006-11-21</ntns>
+        <diem_tb>7.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Phương Lan</ho_ten>
+        <ntns>2006-03-30</ntns>
+        <diem_tb>6.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Gia Hiệp</ho_ten>
+        <ntns>2005-05-07</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bạch Nhâm Long Kính</ho_ten>
+        <ntns>2006-12-19</ntns>
+        <diem_tb>7.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Huy Thông</ho_ten>
+        <ntns>2005-03-17</ntns>
+        <diem_tb>6.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xuân Lý Xuân Nhi</ho_ten>
+        <ntns>2005-05-17</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Khương Anh Thi</ho_ten>
+        <ntns>2006-03-11</ntns>
+        <diem_tb>7.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàng Nông Phương Uyên</ho_ten>
+        <ntns>2005-03-01</ntns>
+        <diem_tb>7.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xương Chiêu Dương</ho_ten>
+        <ntns>2005-10-16</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy Trịnh Việt Phong</ho_ten>
+        <ntns>2005-06-19</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Tuyết Lan</ho_ten>
+        <ntns>2006-03-03</ntns>
+        <diem_tb>6.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lãnh Đoạn Thiên Hương</ho_ten>
+        <ntns>2006-03-26</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Nhân Thùy Vân</ho_ten>
+        <ntns>2005-07-20</ntns>
+        <diem_tb>7.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hứa Thu Phong</ho_ten>
+        <ntns>2006-07-20</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Ngư Xuân Lộc</ho_ten>
+        <ntns>2005-09-03</ntns>
+        <diem_tb>6.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đường Tứ Quỳnh Giang</ho_ten>
+        <ntns>2005-09-19</ntns>
+        <diem_tb>7.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bùi Lạc Kim Sơn</ho_ten>
+        <ntns>2006-06-23</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Đại Tâm</ho_ten>
+        <ntns>2006-12-29</ntns>
+        <diem_tb>6.54</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Việt Hải</ho_ten>
+        <ntns>2006-09-30</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Mạc Gia Hoàng</ho_ten>
+        <ntns>2005-03-30</ntns>
+        <diem_tb>7.12</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Đà An Cơ</ho_ten>
+        <ntns>2005-06-08</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khang Đoan Ngọc</ho_ten>
+        <ntns>2006-02-05</ntns>
+        <diem_tb>6.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thảo Trường Hiệp</ho_ten>
+        <ntns>2006-05-15</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tần Tú Uyên</ho_ten>
+        <ntns>2006-11-17</ntns>
+        <diem_tb>7.07</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoạn Thông Tuệ</ho_ten>
+        <ntns>2006-12-11</ntns>
+        <diem_tb>7.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thẩm Hồng Ngọc</ho_ten>
+        <ntns>2005-08-10</ntns>
+        <diem_tb>7.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngư Triệu Thanh Thanh</ho_ten>
+        <ntns>2006-08-16</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phan Trọng Vinh</ho_ten>
+        <ntns>2006-05-13</ntns>
+        <diem_tb>7.3</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Sở Yên Nghĩa Hòa</ho_ten>
+        <ntns>2005-11-09</ntns>
+        <diem_tb>7.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Đông Hùng Cường</ho_ten>
+        <ntns>2005-04-25</ntns>
+        <diem_tb>6.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Xuân Nghi</ho_ten>
+        <ntns>2006-02-05</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Vân Quỳnh</ho_ten>
+        <ntns>2005-02-04</ntns>
+        <diem_tb>6.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Tăng Thái Lâm</ho_ten>
+        <ntns>2006-05-16</ntns>
+        <diem_tb>7.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Vũ Minh</ho_ten>
+        <ntns>2006-12-06</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đông Mục Trúc Quỳnh</ho_ten>
+        <ntns>2005-10-10</ntns>
+        <diem_tb>7.27</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Thúy My</ho_ten>
+        <ntns>2006-01-27</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Thiện Ngôn</ho_ten>
+        <ntns>2005-10-31</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ánh Minh Vũ</ho_ten>
+        <ntns>2005-02-16</ntns>
+        <diem_tb>6.92</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Kim Thảo</ho_ten>
+        <ntns>2006-03-07</ntns>
+        <diem_tb>7.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Cẩm Ly</ho_ten>
+        <ntns>2005-03-22</ntns>
+        <diem_tb>7.33</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bành Bảo Anh</ho_ten>
+        <ntns>2006-04-03</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đổng Triệu Thùy Linh</ho_ten>
+        <ntns>2006-02-11</ntns>
+        <diem_tb>7.4</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Thu Duyên</ho_ten>
+        <ntns>2005-08-12</ntns>
+        <diem_tb>6.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trần Hồng Long Vũ</ho_ten>
+        <ntns>2005-07-23</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Bạch Lam Phượng</ho_ten>
+        <ntns>2005-01-08</ntns>
+        <diem_tb>7.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nghiêm Anh Tú</ho_ten>
+        <ntns>2006-05-29</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Tần Hồng Linh</ho_ten>
+        <ntns>2005-04-26</ntns>
+        <diem_tb>7.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Hồng Trúc</ho_ten>
+        <ntns>2006-12-18</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Tống Thành Lợi</ho_ten>
+        <ntns>2006-06-16</ntns>
+        <diem_tb>6.72</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đinh Bảo Huynh</ho_ten>
+        <ntns>2006-07-01</ntns>
+        <diem_tb>6.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Tuấn Tú</ho_ten>
+        <ntns>2006-08-18</ntns>
+        <diem_tb>7.02</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Kiều Tuyết</ho_ten>
+        <ntns>2006-11-23</ntns>
+        <diem_tb>7.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Lam Hương</ho_ten>
+        <ntns>2006-04-23</ntns>
+        <diem_tb>6.96</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ân Đoan Hoàng Duệ</ho_ten>
+        <ntns>2006-12-31</ntns>
+        <diem_tb>7.45</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Chính Trực</ho_ten>
+        <ntns>2005-09-14</ntns>
+        <diem_tb>7.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Đại Tuyền</ho_ten>
+        <ntns>2005-06-30</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Bình Dân</ho_ten>
+        <ntns>2006-07-25</ntns>
+        <diem_tb>7.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đàm Nhân Lam Loan</ho_ten>
+        <ntns>2006-02-02</ntns>
+        <diem_tb>6.65</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoàng Hà Quốc Minh</ho_ten>
+        <ntns>2006-08-29</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thượng Đổng Ðinh Lộc</ho_ten>
+        <ntns>2005-12-03</ntns>
+        <diem_tb>7.33</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Tuấn Hoàng</ho_ten>
+        <ntns>2005-11-03</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phạm Ðình Hảo</ho_ten>
+        <ntns>2005-03-09</ntns>
+        <diem_tb>7.21</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhâm Lương Ðan</ho_ten>
+        <ntns>2005-03-26</ntns>
+        <diem_tb>7.11</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Khiết Bảo Huỳnh</ho_ten>
+        <ntns>2006-06-19</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Tôn Thiên Mạnh</ho_ten>
+        <ntns>2006-09-20</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đình Lương Tuệ Mẫn</ho_ten>
+        <ntns>2006-07-17</ntns>
+        <diem_tb>6.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ung Đông Bích Hồng</ho_ten>
+        <ntns>2005-05-20</ntns>
+        <diem_tb>7.28</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Lam Thủy</ho_ten>
+        <ntns>2005-08-10</ntns>
+        <diem_tb>7.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Tuyết Băng</ho_ten>
+        <ntns>2006-09-17</ntns>
+        <diem_tb>7.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Hữu Tâm</ho_ten>
+        <ntns>2006-03-08</ntns>
+        <diem_tb>7.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Hứa Trường Sinh</ho_ten>
+        <ntns>2005-12-03</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Xuân Lâm</ho_ten>
+        <ntns>2006-12-15</ntns>
+        <diem_tb>7.42</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạt Ðình Ngân</ho_ten>
+        <ntns>2005-12-31</ntns>
+        <diem_tb>7.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đông Hồ Thục Nhi</ho_ten>
+        <ntns>2006-02-13</ntns>
+        <diem_tb>6.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Hữu Châu</ho_ten>
+        <ntns>2005-04-07</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Bưu Hữu Thọ</ho_ten>
+        <ntns>2006-09-12</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đông Dũng Việt</ho_ten>
+        <ntns>2005-06-12</ntns>
+        <diem_tb>7.38</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiền Nhã Lý</ho_ten>
+        <ntns>2005-03-29</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Hải Bình</ho_ten>
+        <ntns>2006-09-10</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lệnh Châu Long Quân</ho_ten>
+        <ntns>2006-08-20</ntns>
+        <diem_tb>6.65</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Thanh Toản</ho_ten>
+        <ntns>2006-12-11</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Quách Việt Thanh</ho_ten>
+        <ntns>2006-10-02</ntns>
+        <diem_tb>7.09</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Duy Cường</ho_ten>
+        <ntns>2005-04-28</ntns>
+        <diem_tb>7.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hoằng Ngô Lam Mai</ho_ten>
+        <ntns>2006-08-26</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Đông Xuân</ho_ten>
+        <ntns>2005-06-01</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Tiến Hữu Nam</ho_ten>
+        <ntns>2006-12-04</ntns>
+        <diem_tb>7.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bưu Phùng Tuyết Xuân</ho_ten>
+        <ntns>2005-05-28</ntns>
+        <diem_tb>6.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạc Cẩm Hạnh</ho_ten>
+        <ntns>2006-04-06</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đà Đông Nghi</ho_ten>
+        <ntns>2006-04-21</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Từ Linh Khánh</ho_ten>
+        <ntns>2005-09-17</ntns>
+        <diem_tb>7.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Thế Lực</ho_ten>
+        <ntns>2006-01-03</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngư Mạc Đông Uyên</ho_ten>
+        <ntns>2006-11-22</ntns>
+        <diem_tb>7.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Chung Duy Hiền</ho_ten>
+        <ntns>2006-10-15</ntns>
+        <diem_tb>7.08</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Quang Anh</ho_ten>
+        <ntns>2005-04-26</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đà Trương Long Sơn</ho_ten>
+        <ntns>2005-09-13</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tư Vân Thường</ho_ten>
+        <ntns>2005-05-30</ntns>
+        <diem_tb>6.53</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩ Khiết Kiến Ðức</ho_ten>
+        <ntns>2006-12-05</ntns>
+        <diem_tb>7.65</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đào Bá Kỳ</ho_ten>
+        <ntns>2006-12-13</ntns>
+        <diem_tb>7.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thượng Lâm Xuân</ho_ten>
+        <ntns>2005-08-25</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Tả Lam Quyên</ho_ten>
+        <ntns>2006-12-28</ntns>
+        <diem_tb>7.13</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Vũ Anh</ho_ten>
+        <ntns>2005-01-18</ntns>
+        <diem_tb>7.2</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiếp Khiết Thảo Mai</ho_ten>
+        <ntns>2006-12-15</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Khánh Huyền</ho_ten>
+        <ntns>2005-02-20</ntns>
+        <diem_tb>7.34</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Đoan Khánh Ngân</ho_ten>
+        <ntns>2005-05-08</ntns>
+        <diem_tb>7.1</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Quách Đỗ Phi Hùng</ho_ten>
+        <ntns>2006-06-23</ntns>
+        <diem_tb>7.41</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thẩm Tiễn Chí Thanh</ho_ten>
+        <ntns>2005-08-31</ntns>
+        <diem_tb>6.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Viên Hoàng Nam</ho_ten>
+        <ntns>2006-03-09</ntns>
+        <diem_tb>6.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Hà Uyển Nghi</ho_ten>
+        <ntns>2006-11-10</ntns>
+        <diem_tb>7.27</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Thuận Anh</ho_ten>
+        <ntns>2005-11-27</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Vũ Kim Oanh</ho_ten>
+        <ntns>2006-08-29</ntns>
+        <diem_tb>6.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cung Võ Yên Sơn</ho_ten>
+        <ntns>2006-11-17</ntns>
+        <diem_tb>6.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Xuân Hãn</ho_ten>
+        <ntns>2006-07-19</ntns>
+        <diem_tb>7.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tần Tứ Khắc Anh</ho_ten>
+        <ntns>2005-09-11</ntns>
+        <diem_tb>7.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Ðức Trung</ho_ten>
+        <ntns>2005-08-27</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiến Sở Bá Thúc</ho_ten>
+        <ntns>2005-12-06</ntns>
+        <diem_tb>7.06</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Hải Nguyên</ho_ten>
+        <ntns>2006-02-10</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồ Phó Đoan Trang</ho_ten>
+        <ntns>2005-07-14</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Mục Tiến Ðức</ho_ten>
+        <ntns>2006-05-02</ntns>
+        <diem_tb>7.24</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Lan Sa</ho_ten>
+        <ntns>2006-10-19</ntns>
+        <diem_tb>7.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lừa Anh Thơ</ho_ten>
+        <ntns>2005-10-15</ntns>
+        <diem_tb>6.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngưu Thanh Hải</ho_ten>
+        <ntns>2006-06-09</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đan Xuân Tâm</ho_ten>
+        <ntns>2005-07-09</ntns>
+        <diem_tb>6.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Phi Hải</ho_ten>
+        <ntns>2005-05-16</ntns>
+        <diem_tb>7.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Đức Gia Ðức</ho_ten>
+        <ntns>2005-10-23</ntns>
+        <diem_tb>7.81</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Nghiêm Minh Hảo</ho_ten>
+        <ntns>2005-04-01</ntns>
+        <diem_tb>6.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngưu Xuân Oanh</ho_ten>
+        <ntns>2005-09-05</ntns>
+        <diem_tb>7.57</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhiên Uyên Thơ</ho_ten>
+        <ntns>2005-11-24</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Điền Hoàng Long</ho_ten>
+        <ntns>2006-01-17</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tưởng Vạn Lan Loan</ho_ten>
+        <ntns>2005-01-01</ntns>
+        <diem_tb>7.16</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Từ Gia Thiện</ho_ten>
+        <ntns>2005-02-19</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ánh Bích Nhã</ho_ten>
+        <ntns>2006-11-28</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiến Phương Uyên</ho_ten>
+        <ntns>2006-05-22</ntns>
+        <diem_tb>7.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Minh Lợi</ho_ten>
+        <ntns>2005-09-16</ntns>
+        <diem_tb>6.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Tiền Phương Phi</ho_ten>
+        <ntns>2005-07-25</ntns>
+        <diem_tb>6.72</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Lương Minh</ho_ten>
+        <ntns>2006-01-22</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lý Đậu Thu Ngà</ho_ten>
+        <ntns>2005-04-06</ntns>
+        <diem_tb>7.02</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thổ Hiệp Hà</ho_ten>
+        <ntns>2005-10-01</ntns>
+        <diem_tb>7.77</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Vân Quỳnh</ho_ten>
+        <ntns>2005-07-03</ntns>
+        <diem_tb>7.18</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vĩ Lương Long</ho_ten>
+        <ntns>2005-03-15</ntns>
+        <diem_tb>7.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Lạc Thông Minh</ho_ten>
+        <ntns>2005-05-26</ntns>
+        <diem_tb>7.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lã Kiến Ðức</ho_ten>
+        <ntns>2006-07-23</ntns>
+        <diem_tb>7.15</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạo Long Vũ</ho_ten>
+        <ntns>2006-08-24</ntns>
+        <diem_tb>7.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tống Thanh Nga</ho_ten>
+        <ntns>2005-07-17</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Hữu Long</ho_ten>
+        <ntns>2006-08-28</ntns>
+        <diem_tb>6.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tôn Đại Như</ho_ten>
+        <ntns>2006-12-03</ntns>
+        <diem_tb>7.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vệ Tuyết Loan</ho_ten>
+        <ntns>2005-08-18</ntns>
+        <diem_tb>6.63</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Thanh Hằng</ho_ten>
+        <ntns>2006-11-24</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Vân Khanh</ho_ten>
+        <ntns>2005-05-09</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Đại Thảo</ho_ten>
+        <ntns>2006-10-19</ntns>
+        <diem_tb>6.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Minh Thọ</ho_ten>
+        <ntns>2005-07-09</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lực Quảng Thông</ho_ten>
+        <ntns>2006-07-29</ntns>
+        <diem_tb>7.4</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thạch Lập Quang Thuận</ho_ten>
+        <ntns>2005-02-21</ntns>
+        <diem_tb>7.68</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Triệu Mạnh Phượng Bích</ho_ten>
+        <ntns>2006-02-09</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Đông Khanh</ho_ten>
+        <ntns>2006-09-08</ntns>
+        <diem_tb>7.42</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tráng Đỗ Kiều Tuyền</ho_ten>
+        <ntns>2006-07-13</ntns>
+        <diem_tb>7.1</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thái Văn Hoàng Giang</ho_ten>
+        <ntns>2005-04-16</ntns>
+        <diem_tb>6.58</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Thanh Liêm</ho_ten>
+        <ntns>2005-12-29</ntns>
+        <diem_tb>6.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Tiễn Trung Lực</ho_ten>
+        <ntns>2006-03-13</ntns>
+        <diem_tb>7.43</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Vương Thiên Giang</ho_ten>
+        <ntns>2006-10-10</ntns>
+        <diem_tb>7.04</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Long Thành</ho_ten>
+        <ntns>2006-11-25</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lệnh Sơn Hà</ho_ten>
+        <ntns>2005-10-05</ntns>
+        <diem_tb>7.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đình Thiên Thanh</ho_ten>
+        <ntns>2006-01-22</ntns>
+        <diem_tb>7.34</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Bá Cường</ho_ten>
+        <ntns>2005-10-03</ntns>
+        <diem_tb>7.44</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Địch Tả Thái Tâm</ho_ten>
+        <ntns>2005-07-27</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Tiền Hồng Xuân</ho_ten>
+        <ntns>2006-01-24</ntns>
+        <diem_tb>7.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trang Võ Linh Thủy</ho_ten>
+        <ntns>2006-06-16</ntns>
+        <diem_tb>6.79</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Quang Khanh</ho_ten>
+        <ntns>2005-09-08</ntns>
+        <diem_tb>6.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Khánh Hòa</ho_ten>
+        <ntns>2005-06-04</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vương Trịnh Hồ Nam</ho_ten>
+        <ntns>2006-12-09</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tử Thiên Duyên</ho_ten>
+        <ntns>2006-11-14</ntns>
+        <diem_tb>7.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trịnh Bích Thu</ho_ten>
+        <ntns>2005-01-22</ntns>
+        <diem_tb>7.22</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngư Xuân Hương</ho_ten>
+        <ntns>2005-12-28</ntns>
+        <diem_tb>7.23</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạ Ngũ Khương Duy</ho_ten>
+        <ntns>2005-12-17</ntns>
+        <diem_tb>7.93</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lập Ngư Thời Nhiệm</ho_ten>
+        <ntns>2005-10-20</ntns>
+        <diem_tb>7.51</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ân Tường Vân</ho_ten>
+        <ntns>2005-12-04</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhân Hồng Mai</ho_ten>
+        <ntns>2006-07-29</ntns>
+        <diem_tb>7.02</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đoan Việt Tiến</ho_ten>
+        <ntns>2005-12-09</ntns>
+        <diem_tb>7.75</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nông Phi Khanh</ho_ten>
+        <ntns>2005-06-04</ntns>
+        <diem_tb>7.55</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Huy Việt</ho_ten>
+        <ntns>2006-10-30</ntns>
+        <diem_tb>6.8</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lương Trung Anh</ho_ten>
+        <ntns>2006-04-02</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thi Quảng Thông</ho_ten>
+        <ntns>2005-05-06</ntns>
+        <diem_tb>7.19</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Dương Thảo Nhi</ho_ten>
+        <ntns>2005-07-09</ntns>
+        <diem_tb>6.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Xuân Lập Việt Cường</ho_ten>
+        <ntns>2005-10-14</ntns>
+        <diem_tb>7.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Phan Trương Tuấn Trung</ho_ten>
+        <ntns>2005-10-04</ntns>
+        <diem_tb>6.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hà Phạm Lan Oanh</ho_ten>
+        <ntns>2005-08-07</ntns>
+        <diem_tb>7.69</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngụy Quang Linh</ho_ten>
+        <ntns>2006-12-17</ntns>
+        <diem_tb>7.1</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Sở Minh Xuân</ho_ten>
+        <ntns>2005-11-30</ntns>
+        <diem_tb>6.59</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đinh Tô Minh Sơn</ho_ten>
+        <ntns>2006-10-20</ntns>
+        <diem_tb>6.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Xuân Hoa</ho_ten>
+        <ntns>2005-09-01</ntns>
+        <diem_tb>6.76</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy An Tâm</ho_ten>
+        <ntns>2005-08-11</ntns>
+        <diem_tb>7.88</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cung Phan Phước An</ho_ten>
+        <ntns>2006-07-29</ntns>
+        <diem_tb>7.05</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đậu Cấn Xuân Như</ho_ten>
+        <ntns>2006-05-10</ntns>
+        <diem_tb>7.37</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngũ Hàn Ðức Hòa</ho_ten>
+        <ntns>2006-04-04</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lịch Ðông Dương</ho_ten>
+        <ntns>2005-02-19</ntns>
+        <diem_tb>6.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đạt Điền Long Tuấn</ho_ten>
+        <ntns>2005-05-26</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mạnh Quỳnh Chi</ho_ten>
+        <ntns>2005-03-18</ntns>
+        <diem_tb>7.98</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Huỳnh Thu Sương</ho_ten>
+        <ntns>2005-10-14</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Văn Vương Triều</ho_ten>
+        <ntns>2006-11-25</ntns>
+        <diem_tb>7.07</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trang Mai Xuân Loan</ho_ten>
+        <ntns>2005-11-20</ntns>
+        <diem_tb>6.99</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Vĩ Nhật Lan</ho_ten>
+        <ntns>2006-10-04</ntns>
+        <diem_tb>6.89</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đức Thư Sương</ho_ten>
+        <ntns>2006-05-04</ntns>
+        <diem_tb>6.86</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thượng Thanh Bình</ho_ten>
+        <ntns>2005-02-11</ntns>
+        <diem_tb>6.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hàn Minh Nhân</ho_ten>
+        <ntns>2005-10-05</ntns>
+        <diem_tb>7.19</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Hồng Tiêu Đông Phương</ho_ten>
+        <ntns>2005-08-25</ntns>
+        <diem_tb>7.54</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngô Hoàng Duệ</ho_ten>
+        <ntns>2006-03-12</ntns>
+        <diem_tb>7.84</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Văn Tiền Kiều Giang</ho_ten>
+        <ntns>2006-04-13</ntns>
+        <diem_tb>7.35</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Từ Đậu Khánh Hằng</ho_ten>
+        <ntns>2005-01-27</ntns>
+        <diem_tb>7.27</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vũ Quân Dương</ho_ten>
+        <ntns>2006-03-12</ntns>
+        <diem_tb>7.3</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiêu Khánh Giang</ho_ten>
+        <ntns>2006-10-30</ntns>
+        <diem_tb>7.82</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Thủy Phương Tâm</ho_ten>
+        <ntns>2006-04-25</ntns>
+        <diem_tb>7.9</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bùi Đan Lâm</ho_ten>
+        <ntns>2006-09-19</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đại Hứa Nhật Mai</ho_ten>
+        <ntns>2005-06-18</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trác Lan Liên</ho_ten>
+        <ntns>2005-07-12</ntns>
+        <diem_tb>7.78</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Thành Ðệ</ho_ten>
+        <ntns>2005-01-29</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mã Lư An Bình</ho_ten>
+        <ntns>2005-12-08</ntns>
+        <diem_tb>6.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khương Tấn Viễn Phương</ho_ten>
+        <ntns>2005-08-25</ntns>
+        <diem_tb>6.5</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Châu Triệu Anh Ðào</ho_ten>
+        <ntns>2005-12-28</ntns>
+        <diem_tb>7.95</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đỗ Thụy Lâm</ho_ten>
+        <ntns>2005-04-04</ntns>
+        <diem_tb>6.97</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhân Tất Hiếu</ho_ten>
+        <ntns>2005-09-11</ntns>
+        <diem_tb>7.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vi Cẩm Linh</ho_ten>
+        <ntns>2005-07-01</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Yên Cấn Ðông Dương</ho_ten>
+        <ntns>2005-10-31</ntns>
+        <diem_tb>6.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Kính Mộc Việt Võ</ho_ten>
+        <ntns>2005-07-09</ntns>
+        <diem_tb>7.26</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vi Thi Nguyễn Hải An</ho_ten>
+        <ntns>2005-08-29</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lại Thái Hồng</ho_ten>
+        <ntns>2005-08-13</ntns>
+        <diem_tb>6.83</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nhậm Ðắc Thái</ho_ten>
+        <ntns>2006-03-27</ntns>
+        <diem_tb>6.6</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Độ Lam Mai</ho_ten>
+        <ntns>2006-12-03</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tiết Tâm Nguyệt</ho_ten>
+        <ntns>2006-08-30</ntns>
+        <diem_tb>7.43</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Trọng Duy</ho_ten>
+        <ntns>2006-06-10</ntns>
+        <diem_tb>7.27</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ngạn Uyên Thơ</ho_ten>
+        <ntns>2005-06-24</ntns>
+        <diem_tb>7.09</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đồng Vũ Thanh Hồng</ho_ten>
+        <ntns>2005-02-08</ntns>
+        <diem_tb>7.17</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Võ Tôn Quang Lân</ho_ten>
+        <ntns>2006-02-27</ntns>
+        <diem_tb>7.3</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Đặng Trang Thu Phương</ho_ten>
+        <ntns>2005-12-09</ntns>
+        <diem_tb>6.71</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Khiết Thái Kim Quyên</ho_ten>
+        <ntns>2005-08-21</ntns>
+        <diem_tb>6.62</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bùi Thượng Nghị</ho_ten>
+        <ntns>2005-11-27</ntns>
+        <diem_tb>7.48</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Mao Bích Hồng</ho_ten>
+        <ntns>2005-09-28</ntns>
+        <diem_tb>6.7</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Túc Mục Yến Oanh</ho_ten>
+        <ntns>2006-07-08</ntns>
+        <diem_tb>6.74</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Ân Nhật Linh</ho_ten>
+        <ntns>2006-06-15</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nguyễn Địch Thượng Năng</ho_ten>
+        <ntns>2006-04-03</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Lục Hoàng Công Lập</ho_ten>
+        <ntns>2005-07-19</ntns>
+        <diem_tb>6.85</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Cấn Hồng Linh</ho_ten>
+        <ntns>2005-02-28</ntns>
+        <diem_tb>6.61</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Bảo Long</ho_ten>
+        <ntns>2005-03-24</ntns>
+        <diem_tb>7.87</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Diệp Công Hải</ho_ten>
+        <ntns>2006-09-27</ntns>
+        <diem_tb>7.29</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tạc Tô Cẩm Liên</ho_ten>
+        <ntns>2006-04-28</ntns>
+        <diem_tb>6.73</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tô Trần Tố Nga</ho_ten>
+        <ntns>2005-09-07</ntns>
+        <diem_tb>7.72</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Quách Lương Ngọc Ái</ho_ten>
+        <ntns>2005-04-22</ntns>
+        <diem_tb>7.4</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Vạn Long Bình</ho_ten>
+        <ntns>2006-12-23</ntns>
+        <diem_tb>7.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Mạnh Phúc Hưng</ho_ten>
+        <ntns>2005-07-23</ntns>
+        <diem_tb>7.0</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tứ Tuấn Tú</ho_ten>
+        <ntns>2005-12-20</ntns>
+        <diem_tb>7.52</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Tào Hữu Thọ</ho_ten>
+        <ntns>2005-02-24</ntns>
+        <diem_tb>7.91</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Bác Anh Đức</ho_ten>
+        <ntns>2005-04-07</ntns>
+        <diem_tb>7.67</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Trình Đạo Gia Hưng</ho_ten>
+        <ntns>2006-03-01</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+    <Student>
+        <ho_ten>Nông Vân Trinh</ho_ten>
+        <ntns>2006-11-11</ntns>
+        <diem_tb>6.56</diem_tb>
+        <xep_loai>Khá</xep_loai>
+        <ket_qua>Hoàn thành</ket_qua>
+    </Student>
+</Students>
