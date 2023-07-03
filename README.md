@@ -7,5 +7,5 @@ Two file CreateSchemal.sql and CreateSchemal2.sql create databases with the tabe
 
 `query-db.py` is file connect to databases, query data, print and insert to file .xml in folder `XML`. The file `TRUONGHOC1.xlsx` has the table write the time executes each query of sentence 4, after that, I create a line chart with name `time-query.png`.
 
-Finally, `query-xml.py` is file has function to query data from file .xml in folder XML and print it to screen.
+Finally, `query-xml.py` is file that has function to query data from file .xml in folder XML and print it to screen.
 
