@@ -8,7 +8,7 @@ def connect_to_db_truonghoc1():
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="12012004vert",
+        password="", //nhập mật khẩu tại đây
         database="truonghoc1"
     )
     return connection
@@ -18,7 +18,7 @@ def connect_to_db_truonghoc2():
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="12012004vert",
+        password="", //nhập mật khẩu tại đây
         database="truonghoc2"
     )   
     return connection
