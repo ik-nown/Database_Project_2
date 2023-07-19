@@ -10,7 +10,7 @@ def query_students(database_name, tentr, namhoc, xeploai):
     conn = mysql.connector.connect(
         host='localhost',
         user='root',
-        password= '12012004vert',
+        password= '',
         database = database_name
     )
     cursor = conn.cursor()
