@@ -1,11 +1,14 @@
 # Database_Project_2
-The project of IT004
+This project is a database management and querying project developed for the course IT004. Itdemonstrates the ability to create, populate, query relational databases, as well as handle XML output and query optimization.
 
-The folder `generator` contains all files of: generate table `truong`, table `hs`, table `hoc` of 2 database `truonghoc1` and `truonghoc2`, the insert_function.py file has 6 function insert to databases.
+### Key components of the project include:
+- **Folder Generator**: Contains Python scripts to generate and populate tables (truong, hs, hoc) in both databases.
+- **Insert_function.py**: Provides six functions to insert data into the respective databases.
+- **CreateSchemal.sql and CreateSchemal2.sql**: SQL scripts to create the database structures for truonghoc1 and truonghoc2, including all the required tables.
+- **Query-db.py**: Handles database connections, executes queries, and outputs results to XML files stored in the XML folder.
+- **TRUONGHOC1.xlsx**: Records the execution time of specific queries (task 4), with a corresponding line chart visualizing the query times, saved as time-query.png.
+- **Query-xml.py**: Allows querying of data directly from the XML files and prints the results to the console.
 
-Two file CreateSchemal.sql and CreateSchemal2.sql create databases with the tabels like Relational Database Schemal in picture `TRUONGHOC1.png`.
-
-`query-db.py` is file connect to databases, query data, print and insert to file .xml in folder `XML`. The file `TRUONGHOC1.xlsx` has the table write the time executes each query of sentence 4, after that, I create a line chart with name `time-query.png`.
-
-Finally, `query-xml.py` is file that has function to query data from file .xml in folder XML and print it to screen.
+### Tools & Technologies used 
+Python, SQL, SQLite, XML, Excel, Matplotlib
 
